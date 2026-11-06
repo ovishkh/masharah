@@ -1,0 +1,31 @@
+{
+  "book": "التفسير الميسر",
+  "genre": "Tafseer",
+  "tier1": {
+    "pages": 2,
+    "blocks": 18
+  },
+  "tier3": {
+    "units": [
+      {
+        "ayah_text": "بِسۡمِ ٱللَّهِ ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ",
+        "explanation_summary": "The Basmala signifies starting with God's name, where 'Allah' is the most specific name for the sole deity, and 'Ar-Rahman' and 'Ar-Rahim' denote His universal and specific mercy.",
+        "source_quote": "أبتدئ قراءة القرآن باسم الله مستعينا به، (اللهِ) علم على الرب -تبارك وتعالى- المعبود بحق دون سواه، وهو أخص أسماء الله تعالى، ولا يسمى به غيره سبحانه. (الرَّحْمَنِ) ذي الرحمة العامة الذي وسعت رحمته جميع الخلق، (الرَّحِيمِ) بالمؤمنين، وهما اسمان من أسمائه تعالى، يتضمنان إثبات صفة الرحمة لله تعالى كما يليق بجلاله.",
+        "confidence": 0.95
+      },
+      {
+        "ayah_text": "ٱلۡحَمۡدُ لِلَّهِ رَبِّ ٱلۡعَٰلَمِينَ",
+        "explanation_summary": "This verse praises God for His perfect attributes and blessings, implying a command for believers to praise Him as the sole Creator and Sustainer of all existence.",
+        "source_quote": "الثناء على الله بصفاته التي كلُّها أوصاف كمال، وبنعمه الظاهرة والباطنة، الدينية والدنيوية، وفي ضمنه أَمْرٌ لعباده أن يحمدوه، فهو المستحق له وحده، وهو سبحانه المنشئ للخلق، القائم بأمورهم، المربي لجميع خلقه بنعمه، ولأوليائه بالإيمان والعمل الصالح.",
+        "confidence": 0.95
+      },
+      {
+        "ayah_text": "ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ",
+        "explanation_summary": "The attributes 'Ar-Rahman' and 'Ar-Rahim' are names of God signifying His general mercy for all creation and specific mercy for the believers.",
+        "source_quote": "(الرَّحْمَنِ) ذي الرحمة العامة الذي وسعت رحمته جميع الخلق، (الرَّحِيمِ) ، بالمؤمنين، وهما اسمان من أسماء الله تعالى.",
+        "confidence": 0.95
+      }
+    ],
+    "overall_theme": "The attributes of God, specifically focusing on His names, mercy, and the obligation of praise and worship."
+  }
+}
