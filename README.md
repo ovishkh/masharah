@@ -4,8 +4,6 @@ Automated publishing and knowledge enrichment system for a digital library conta
 
 This project implements a **Tiered Hybrid Neuro-Symbolic Architecture** designed for high precision, zero hallucination, source traceability, and minimal cost at scale (~$0.10–$0.15 per book).
 
-For the complete technical assessment, diagrams, and architecture analysis, see **[SYSTEM.md](SYSTEM.md)**.
-
 ---
 
 ## 🏛️ Architecture Overview
@@ -110,7 +108,6 @@ This verifies:
 
 ```
 masharah/
-├── SYSTEM.md                  # Complete Technical Assessment & Architecture Plan
 ├── README.md                  # Project overview & quickstart guide
 ├── .env.example               # Environment variables template
 ├── input/
