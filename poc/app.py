@@ -1,17 +1,16 @@
 #!/usr/bin/env python3
 """
-demo.py — Full 4-Tier Hybrid Neuro-Symbolic PoC
-================================================
-Runs the complete pipeline on demo_book_daraqutni.json
+app.py — Full 4-Tier Hybrid Neuro-Symbolic Pipeline
+===================================================
+Runs the complete pipeline on digitized Islamic books.
 
 Usage:
-    export GROK_API_KEY=your_key_here
-    python3 demo.py
+    python3 app.py
 
 Output:
-    output/tier1_output.json  — Deterministic processing results
+    output/tier1_output.json     — Deterministic processing results
     output/tier3_extraction.json — LLM extraction with citations
-    output/enriched_book.json  — Final merged enrichment layer
+    output/enriched_book.json    — Final merged enrichment layer
 """
 
 import sys
@@ -137,7 +136,7 @@ def run_tier3(tier1_result):
 
 
 def _tier3_dry_run(tier1_result):
-    """Show what Tier 3 would extract, using just Tier 1 data (demo without API key)."""
+    """Show what Tier 3 would extract, using just Tier 1 data (dry run without API key)."""
     print('  [DRY RUN — no API key needed]')
     print()
 
