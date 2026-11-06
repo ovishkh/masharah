@@ -1,0 +1,2258 @@
+{
+  "pub_id": "pub_01M0CJECV4ZHFTP02BJQ6D3STJ",
+  "work_id": "wrk_01M0CJEXJ1ZJM9AEM1GYTHTYZE",
+  "sha256_match": false,
+  "page_count": 68,
+  "block_count": 594,
+  "blocks_by_kind": {
+    "text": 260,
+    "toc_heading": 2,
+    "footnote": 317,
+    "heading": 15
+  },
+  "quality_flags": [],
+  "raw_metadata": {
+    "title": "الإخوة والأخوات",
+    "author": "أبو الحسن علي بن عمر بن أحمد الدارقطني (ت ٣٨٥ هـ)",
+    "category": "الأنساب"
+  },
+  "toc": [
+    {
+      "block_id": "b000012",
+      "kind": "toc_heading",
+      "text": "مقدمة المحقق",
+      "page_n": 5,
+      "level": 1
+    },
+    {
+      "block_id": "b000026",
+      "kind": "heading",
+      "text": "عملي فى الكتاب:",
+      "page_n": 6,
+      "level": 2
+    },
+    {
+      "block_id": "b000041",
+      "kind": "heading",
+      "text": "تعريف مختصر بالإمام الدّارقطني (١):",
+      "page_n": 8,
+      "level": 2
+    },
+    {
+      "block_id": "b000051",
+      "kind": "heading",
+      "text": "التعريف بالمخطوط:",
+      "page_n": 10,
+      "level": 2
+    },
+    {
+      "block_id": "b000060",
+      "kind": "heading",
+      "text": "صحّة نسبة الكتاب للدارقطني:",
+      "page_n": 11,
+      "level": 2
+    },
+    {
+      "block_id": "b000090",
+      "kind": "toc_heading",
+      "text": "مقدمة المؤلف",
+      "page_n": 19,
+      "level": 1
+    },
+    {
+      "block_id": "b000104",
+      "kind": "heading",
+      "text": "* أولاد رَسول الله -صلى الله عليه وسلم-:",
+      "page_n": 21,
+      "level": 2
+    },
+    {
+      "block_id": "b000113",
+      "kind": "heading",
+      "text": "* ومن الذكور:",
+      "page_n": 22,
+      "level": 2
+    },
+    {
+      "block_id": "b000134",
+      "kind": "heading",
+      "text": "* وأخوة أولاد رسول اللَّه -صلى الله عليه وسلم- من أُمهم خديجة:",
+      "page_n": 25,
+      "level": 2
+    },
+    {
+      "block_id": "b000216",
+      "kind": "heading",
+      "text": "* الأُخوة من وَلد عبد المطلب بن هاشم بن عبد مَناف:",
+      "page_n": 34,
+      "level": 2
+    },
+    {
+      "block_id": "b000255",
+      "kind": "heading",
+      "text": "* الأُخوة من ولد أبي طالب بن عبد المطلب بن هاشم:",
+      "page_n": 39,
+      "level": 2
+    },
+    {
+      "block_id": "b000291",
+      "kind": "heading",
+      "text": "* الأُخوة من ولد الحارث بن عبد المطلب؛ وكان أكبر ولد أبيه وبه كان يكنى:",
+      "page_n": 43,
+      "level": 2
+    },
+    {
+      "block_id": "b000339",
+      "kind": "heading",
+      "text": "* الأُخوة من ولد العباس بن عبد المطلب:",
+      "page_n": 48,
+      "level": 2
+    },
+    {
+      "block_id": "b000421",
+      "kind": "heading",
+      "text": "* [الأُخوة مِن ذُريّة أبي بكر الصدّيق]:",
+      "page_n": 56,
+      "level": 2
+    },
+    {
+      "block_id": "b000439",
+      "kind": "heading",
+      "text": "* الأُخوة من ولد الخطاب بن نُفيل بن عبد العُزى بن رِياح (١) بن عبد الله ابن قُرْط (٢) بن رِزاح (٣) بن عدي بن كعب:",
+      "page_n": 58,
+      "level": 2
+    },
+    {
+      "block_id": "b000473",
+      "kind": "heading",
+      "text": "* الأُخوة من ولد عمر بن الخطاب: أكثرهم لا صُحبةَ له.",
+      "page_n": 62,
+      "level": 2
+    },
+    {
+      "block_id": "b000586",
+      "kind": "heading",
+      "text": "[الأخوة من ولد عثمان بن أبي العاص.]",
+      "page_n": 72,
+      "level": 2
+    }
+  ],
+  "footnote_links": [
+    {
+      "anchor_block_id": "b000018",
+      "anchor_char_start": 38,
+      "anchor_char_end": 41,
+      "footnote_block_id": "b000020",
+      "footnote_text_preview": "تُضبَط همزتُها بالضَّمِّ، وتجوزُ -أيضًا- بالكَسرِ."
+    },
+    {
+      "anchor_block_id": "b000041",
+      "anchor_char_start": 31,
+      "anchor_char_end": 34,
+      "footnote_block_id": "b000045",
+      "footnote_text_preview": "بعض مصادر ترجمته:\n\"تاريخ بغداد\" (١٢/ ٣٤) للخطيب، \"الأنساب\" (٥/ ٤٢٥) للسمعاني، \"س"
+    },
+    {
+      "anchor_block_id": "b000042",
+      "anchor_char_start": 68,
+      "anchor_char_end": 71,
+      "footnote_block_id": "b000046",
+      "footnote_text_preview": "منها: رسالة دكتوراة قدمت لجامعة الإمام محمد بن سعود الإسلامية كلية أصول الدين قس"
+    },
+    {
+      "anchor_block_id": "b000093",
+      "anchor_char_start": 50,
+      "anchor_char_end": 53,
+      "footnote_block_id": "b000094",
+      "footnote_text_preview": "قال المنذري في \"التكملة لِوفيات النقلة\" (٢/ ٤١٦): الشيخ الأجل أبو محمد. وانظر \"ش"
+    },
+    {
+      "anchor_block_id": "b000093",
+      "anchor_char_start": 176,
+      "anchor_char_end": 179,
+      "footnote_block_id": "b000095",
+      "footnote_text_preview": "قال الذهبي في \"السير\" (٢١/ ٥): هو الإمام العلامة المحدث الحافظ المفتي شيخ الإسلا"
+    },
+    {
+      "anchor_block_id": "b000093",
+      "anchor_char_start": 261,
+      "anchor_char_end": 264,
+      "footnote_block_id": "b000096",
+      "footnote_text_preview": "قال الذهبي في \"السير\" (١٩/ ٢١٣): الشيخ الإمام العالم المفيد بقية النقلة المكثرين"
+    },
+    {
+      "anchor_block_id": "b000093",
+      "anchor_char_start": 413,
+      "anchor_char_end": 416,
+      "footnote_block_id": "b000097",
+      "footnote_text_preview": "لعله المعروف بابن زوج الحرة، قال الخطيب البغداي في \"تاريخه\" (٢/ ٣٦١): ="
+    },
+    {
+      "anchor_block_id": "b000105",
+      "anchor_char_start": 0,
+      "anchor_char_end": 3,
+      "footnote_block_id": "b000109",
+      "footnote_text_preview": "فاطمة الزهراء: سيدة نساء هذه الأُمة، تزوجها عليّ في السَّنة الثانية من الهجرة، و"
+    },
+    {
+      "anchor_block_id": "b000106",
+      "anchor_char_start": 0,
+      "anchor_char_end": 3,
+      "footnote_block_id": "b000110",
+      "footnote_text_preview": "أكبر أخواتها من المهاجرات، وكانت أول بنات رسول الله تزوُّجًا، ماتت في عهد النَّب"
+    },
+    {
+      "anchor_block_id": "b000107",
+      "anchor_char_start": 0,
+      "anchor_char_end": 3,
+      "footnote_block_id": "b000111",
+      "footnote_text_preview": "زوجة عثمان بن عفان، وهاجرت معه إلى الحبشة الهجرتين، توفيت ورسول الله -صلى الله ع"
+    },
+    {
+      "anchor_block_id": "b000108",
+      "anchor_char_start": 0,
+      "anchor_char_end": 3,
+      "footnote_block_id": "b000112",
+      "footnote_text_preview": "تزوجها عثمان لما توفيت أختها رقية، ولم تلد له، وتوفيت في شعبان سنة تسع. \"الطبقات"
+    },
+    {
+      "anchor_block_id": "b000114",
+      "anchor_char_start": 0,
+      "anchor_char_end": 3,
+      "footnote_block_id": "b000118",
+      "footnote_text_preview": "قال الحافظ: أول مولود له، ولد قبل البعثة، ومات صغيرًا. \"أسد الغابة\" (٤/ ٣٧٧)، \"ا"
+    },
+    {
+      "anchor_block_id": "b000115",
+      "anchor_char_start": 0,
+      "anchor_char_end": 3,
+      "footnote_block_id": "b000119",
+      "footnote_text_preview": "ولد بعد النبوَّة، ومات صغيرًا. \"الإصابة\" (٣/ ٥٤٩)."
+    },
+    {
+      "anchor_block_id": "b000115",
+      "anchor_char_start": 47,
+      "anchor_char_end": 50,
+      "footnote_block_id": "b000120",
+      "footnote_text_preview": "قال الحافظ في \"الإصابة\" (٣/ ٥٤٩) في ترجمة الطاهر: \"قال الزبير بن بكار في ترجمة خ"
+    },
+    {
+      "anchor_block_id": "b000116",
+      "anchor_char_start": 17,
+      "anchor_char_end": 20,
+      "footnote_block_id": "b000121",
+      "footnote_text_preview": "أخرج ابن ماجه في \"سننه\" كتاب الجنائز (١/ ٤٨٤) من طريق الحسين بن على قال: لما توف"
+    },
+    {
+      "anchor_block_id": "b000117",
+      "anchor_char_start": 19,
+      "anchor_char_end": 22,
+      "footnote_block_id": "b000122",
+      "footnote_text_preview": "روى ابن إسحاق في \"السِّيرة\" (٢٤٥) عن ابن عباس قال: ولدت خديجة لرسول اللَّه -صلى "
+    },
+    {
+      "anchor_block_id": "b000123",
+      "anchor_char_start": 20,
+      "anchor_char_end": 23,
+      "footnote_block_id": "b000126",
+      "footnote_text_preview": "سيدة نساء العالمين في زمانها، وأم أولاد رسول اللَّه -صلى الله عليه وسلم-، وأوَّل"
+    },
+    {
+      "anchor_block_id": "b000124",
+      "anchor_char_start": 0,
+      "anchor_char_end": 3,
+      "footnote_block_id": "b000127",
+      "footnote_text_preview": "ولد في ذي الحجة سنة ثمان، وسُرّ النبيُّ -صلى الله عليه وسلم- بولادته كثيرًا، وول"
+    },
+    {
+      "anchor_block_id": "b000124",
+      "anchor_char_start": 61,
+      "anchor_char_end": 64,
+      "footnote_block_id": "b000128",
+      "footnote_text_preview": "مولاة رسول اللَّه، وسُرّيّته، أهداها له المقوقس صاحب الاسكندرية، وتوفيت سنة ست ع"
+    },
+    {
+      "anchor_block_id": "b000124",
+      "anchor_char_start": 103,
+      "anchor_char_end": 106,
+      "footnote_block_id": "b000129",
+      "footnote_text_preview": "قال الحافظ في \"الإصابة\" (١/ ١٧٤): وفي \"صحيح البخاري\" أنَّهُ عاش سبعة عشر شهرًا أ"
+    },
+    {
+      "anchor_block_id": "b000124",
+      "anchor_char_start": 140,
+      "anchor_char_end": 143,
+      "footnote_block_id": "b000130",
+      "footnote_text_preview": "قال الحافظ في \"الإصابة\" (١/ ١٧٢): قال مصعب الزبيري: ومات سنة عشرة، جزم به الواقد"
+    },
+    {
+      "anchor_block_id": "b000131",
+      "anchor_char_start": 67,
+      "anchor_char_end": 70,
+      "footnote_block_id": "b000133",
+      "footnote_text_preview": "رواه البخاري كتاب الجنائز (٣/ ٢٤٤) (رقم: ١٣٨٢)، وكتاب بدء الخلق (٦/ ٣٢٠) (رقم: ٣"
+    },
+    {
+      "anchor_block_id": "b000135",
+      "anchor_char_start": 0,
+      "anchor_char_end": 3,
+      "footnote_block_id": "b000139",
+      "footnote_text_preview": "قال الحافظ في \"الإصابة\" (٨/ ١٥٧): قال ابن سعد في ترجمة خديجة: خلف على خديجة بعد "
+    },
+    {
+      "anchor_block_id": "b000135",
+      "anchor_char_start": 25,
+      "anchor_char_end": 28,
+      "footnote_block_id": "b000140",
+      "footnote_text_preview": "ضبطه المصنِّف في \"المؤتلف\" (١٥٤٠) بالحروف."
+    },
+    {
+      "anchor_block_id": "b000135",
+      "anchor_char_start": 66,
+      "anchor_char_end": 69,
+      "footnote_block_id": "b000141",
+      "footnote_text_preview": "أشار الحافظ في \"الإصابة\" (٨/ ١٥٧) إلى ترجمة المصنِّف لها."
+    },
+    {
+      "anchor_block_id": "b000135",
+      "anchor_char_start": 98,
+      "anchor_char_end": 101,
+      "footnote_block_id": "b000142",
+      "footnote_text_preview": "كذا في \"الأصل\"، وفي \"الإصابة\" نقلًا عن \"الأخوة\": \"لم ترو عنه شيئًا\"."
+    },
+    {
+      "anchor_block_id": "b000136",
+      "anchor_char_start": 0,
+      "anchor_char_end": 3,
+      "footnote_block_id": "b000143",
+      "footnote_text_preview": "ربيب النَّبيِّ -صلى الله عليه وسلم-، قيل: استشهد يوم الجمل مع علي، وقيل: عاش بعد"
+    },
+    {
+      "anchor_block_id": "b000137",
+      "anchor_char_start": 0,
+      "anchor_char_end": 4,
+      "footnote_block_id": "b000144",
+      "footnote_text_preview": "له صحبة. \"أسد الغابة\" (٥/ ٣٧٨)، \"الإصابة\" (٦/ ٥١٧)."
+    },
+    {
+      "anchor_block_id": "b000137",
+      "anchor_char_start": 31,
+      "anchor_char_end": 34,
+      "footnote_block_id": "b000145",
+      "footnote_text_preview": "في \"الإصابة\" (٦/ ٥٥٨): قال الزبير: اسمه: مالك بن النباش بن زرارة."
+    },
+    {
+      "anchor_block_id": "b000138",
+      "anchor_char_start": 24,
+      "anchor_char_end": 27,
+      "footnote_block_id": "b000146",
+      "footnote_text_preview": "في \"الإصابة\" (٦/ ٥٥٨): وقال أبو محمد ابن حزم: اسم أبي هالة: هند بن زرارة ابن الن"
+    },
+    {
+      "anchor_block_id": "b000147",
+      "anchor_char_start": 63,
+      "anchor_char_end": 66,
+      "footnote_block_id": "b000150",
+      "footnote_text_preview": "لأنَّهُ أخو أمه من أُمها، أي: لأنَّ هالة أخت فاطمة بنت رسول اللَّه -صلى الله علي"
+    },
+    {
+      "anchor_block_id": "b000147",
+      "anchor_char_start": 73,
+      "anchor_char_end": 76,
+      "footnote_block_id": "b000151",
+      "footnote_text_preview": "جاء في \"الأصل\": أخيه، والصواب ما أثبت."
+    },
+    {
+      "anchor_block_id": "b000147",
+      "anchor_char_start": 134,
+      "anchor_char_end": 137,
+      "footnote_block_id": "b000152",
+      "footnote_text_preview": "رواه الترمذي في \"الشمائل\" (٢٢)، وابن سعد في \"الطبقات\" (١/ ٤٢٢ - ٤٢٣) وابن عدي في"
+    },
+    {
+      "anchor_block_id": "b000148",
+      "anchor_char_start": 12,
+      "anchor_char_end": 15,
+      "footnote_block_id": "b000153",
+      "footnote_text_preview": "قال ابن عبد البر في \"الاستيعاب\" (٣/ ٦٠٢): كان هند فصيحًا بليغًا وَصَفَ رسولَ الل"
+    },
+    {
+      "anchor_block_id": "b000148",
+      "anchor_char_start": 44,
+      "anchor_char_end": 47,
+      "footnote_block_id": "b000154",
+      "footnote_text_preview": "في \"الاستيعاب\" و \"الإصابة\": قال الزبير: قتل هند مع على بن أبي طالب يوم الجمل، وز"
+    },
+    {
+      "anchor_block_id": "b000149",
+      "anchor_char_start": 13,
+      "anchor_char_end": 16,
+      "footnote_block_id": "b000155",
+      "footnote_text_preview": "قال ابن عبد البر في \"الاستيعاب\" (٤/ ٣٧٣): كانت هي وأختها أم كلثوم أصغر بنات رسول"
+    },
+    {
+      "anchor_block_id": "b000156",
+      "anchor_char_start": 121,
+      "anchor_char_end": 124,
+      "footnote_block_id": "b000161",
+      "footnote_text_preview": "تزوجها بعد وقعة أحد، كما في \"الاستيعاب\" (٤/ ٣٧٤)، و \"السير\" (٢/ ١١٩)."
+    },
+    {
+      "anchor_block_id": "b000157",
+      "anchor_char_start": 0,
+      "anchor_char_end": 4,
+      "footnote_block_id": "b000162",
+      "footnote_text_preview": "سِبط رسول اللَّه -صلى الله عليه وسلم- وريحانته، وقد صحبه وحفظ عنه، مات شهيدًا با"
+    },
+    {
+      "anchor_block_id": "b000158",
+      "anchor_char_start": 0,
+      "anchor_char_end": 4,
+      "footnote_block_id": "b000163",
+      "footnote_text_preview": "سِبط رسول اللَّه -صلى الله عليه وسلم- وريحانته، حفظ عنه، استشهد يوم عاشوراء سنة "
+    },
+    {
+      "anchor_block_id": "b000159",
+      "anchor_char_start": 0,
+      "anchor_char_end": 4,
+      "footnote_block_id": "b000164",
+      "footnote_text_preview": "قال الحافظ في \"الإصابة\" (٦/ ٢٣٤): بتشديد السين المهملة، استدركه ابن فتحون على اب"
+    },
+    {
+      "anchor_block_id": "b000165",
+      "anchor_char_start": 0,
+      "anchor_char_end": 4,
+      "footnote_block_id": "b000166",
+      "footnote_text_preview": "أم كلثوم بنت علي بن أبي طالب، شقيقة الحسن والحسين، ولدت في حدود سنة ست من الهجرة"
+    },
+    {
+      "anchor_block_id": "b000165",
+      "anchor_char_start": 55,
+      "anchor_char_end": 58,
+      "footnote_block_id": "b000167",
+      "footnote_text_preview": "في \"السير\" (٣/ ٥٠٢): وكان ابنها زيد من سادة أشراف قريش، توفى شابًّا ولم يُعقِب. "
+    },
+    {
+      "anchor_block_id": "b000165",
+      "anchor_char_start": 66,
+      "anchor_char_end": 69,
+      "footnote_block_id": "b000168",
+      "footnote_text_preview": "في \"السير\" (٣/ ٥٠١): ونقل الزهري وغيره: أنَّها ولدت لعمر زيدًا وقيل: ولدت له رقي"
+    },
+    {
+      "anchor_block_id": "b000165",
+      "anchor_char_start": 85,
+      "anchor_char_end": 88,
+      "footnote_block_id": "b000169",
+      "footnote_text_preview": "قال الحافظ في \"الإصابة\" (٨/ ٢٩٤): وذكر الدارقطني في كتاب \"الأُخوة\": أنَّ عونًا م"
+    },
+    {
+      "anchor_block_id": "b000165",
+      "anchor_char_start": 103,
+      "anchor_char_end": 106,
+      "footnote_block_id": "b000170",
+      "footnote_text_preview": "هو محمد بن جعفر بن أبي طالب الهاشمي، ابن عم النبيّ -صلى الله عليه وسلم-، وُلد بأ"
+    },
+    {
+      "anchor_block_id": "b000165",
+      "anchor_char_start": 120,
+      "anchor_char_end": 123,
+      "footnote_block_id": "b000171",
+      "footnote_text_preview": "جاء في \"الاستيعاب\" في ترجمة محمد: وهو الذي تزوج أم كلثوم بنت علي بعد موت عمر بن "
+    },
+    {
+      "anchor_block_id": "b000172",
+      "anchor_char_start": 12,
+      "anchor_char_end": 15,
+      "footnote_block_id": "b000175",
+      "footnote_text_preview": "ولد بأرض الحبشة، وقدم به أبوه في غزوة خيبر، وجاء في \"الاستيعاب\": استشهد في غزوة "
+    },
+    {
+      "anchor_block_id": "b000172",
+      "anchor_char_start": 52,
+      "anchor_char_end": 55,
+      "footnote_block_id": "b000176",
+      "footnote_text_preview": "أحد الأجواد، ولد بأرض الحبشة وله صحبة، مات سنة ثمانين، وهو ابن ثمانين."
+    },
+    {
+      "anchor_block_id": "b000172",
+      "anchor_char_start": 75,
+      "anchor_char_end": 78,
+      "footnote_block_id": "b000177",
+      "footnote_text_preview": "ذكر ابن سعد في \"الطبقات\" (٨/ ٤٦٣): أن أم كلثوم قالت: إني لأستحي من أسماء بنت عُم"
+    },
+    {
+      "anchor_block_id": "b000173",
+      "anchor_char_start": 0,
+      "anchor_char_end": 4,
+      "footnote_block_id": "b000178",
+      "footnote_text_preview": "ولدت في حياة النبيِّ -صلى الله عليه وسلم- وكانت عاقلة جزلة. \"الطبقات الكبرى\" (٨/"
+    },
+    {
+      "anchor_block_id": "b000173",
+      "anchor_char_start": 70,
+      "anchor_char_end": 73,
+      "footnote_block_id": "b000179",
+      "footnote_text_preview": "في \"الطبقات الكبرى\": تزوجها عبد الله بن جعفر فولدت له عليًا وعونًا الأكبر وعباسً"
+    },
+    {
+      "anchor_block_id": "b000173",
+      "anchor_char_start": 114,
+      "anchor_char_end": 117,
+      "footnote_block_id": "b000180",
+      "footnote_text_preview": "لم أجد لهؤلاء الثلاثة تراجم مستقلةً."
+    },
+    {
+      "anchor_block_id": "b000181",
+      "anchor_char_start": 67,
+      "anchor_char_end": 70,
+      "footnote_block_id": "b000184",
+      "footnote_text_preview": "اختلف في اسمه قيل: لقيط، وقيل: الزبير، وقيل: هشيم … كان يقال له: الأمين، أسلم قب"
+    },
+    {
+      "anchor_block_id": "b000181",
+      "anchor_char_start": 165,
+      "anchor_char_end": 168,
+      "footnote_block_id": "b000185",
+      "footnote_text_preview": "كما في \"الاستيعاب\" (٤/ ١٢٥)، وانظر \"الذرية الظاهرة\" (٤٥)."
+    },
+    {
+      "anchor_block_id": "b000182",
+      "anchor_char_start": 0,
+      "anchor_char_end": 4,
+      "footnote_block_id": "b000186",
+      "footnote_text_preview": "كان علي مسترضعًا فى بني غاضرة فضمَّه رسول الله -صلى الله عليه وسلم- إليه، وأبوه "
+    },
+    {
+      "anchor_block_id": "b000182",
+      "anchor_char_start": 69,
+      "anchor_char_end": 72,
+      "footnote_block_id": "b000187",
+      "footnote_text_preview": "أورد هذا الخبر الهيثمي في \"مجمع الزوائد\" (١٩/ ٢١٢) وعزاه للطبراني، ثم قال: \"وعمر"
+    },
+    {
+      "anchor_block_id": "b000182",
+      "anchor_char_start": 97,
+      "anchor_char_end": 100,
+      "footnote_block_id": "b000188",
+      "footnote_text_preview": "انظر \"الإصابة\" (٤/ ٥٧١)، و \"السيرة\" (٢٤٦) لابن إسحاق، وفيهما أنَّه تُوفِّي وهو غ"
+    },
+    {
+      "anchor_block_id": "b000183",
+      "anchor_char_start": 0,
+      "anchor_char_end": 4,
+      "footnote_block_id": "b000189",
+      "footnote_text_preview": "انظر ترجمتها في \"الطبقات الكبرى\" (٨/ ٣٩)، \"الاستيعاب\" (٤/ ٢٤٤)، \"أسد الغابة\" (٧/"
+    },
+    {
+      "anchor_block_id": "b000183",
+      "anchor_char_start": 122,
+      "anchor_char_end": 125,
+      "footnote_block_id": "b000190",
+      "footnote_text_preview": "رواه البخاري في \"صحيحه\" كتاب الصلاة (١/ ٥٩٠) رقم (٥١٦)، وكتاب الأدب (١٠/ ٤٢٦) رق"
+    },
+    {
+      "anchor_block_id": "b000191",
+      "anchor_char_start": 33,
+      "anchor_char_end": 36,
+      "footnote_block_id": "b000195",
+      "footnote_text_preview": "قال ابن إسحاق في \"السيرة\" (٢٤٦): بقيت أُمامة حتى تزوجها علي بعد فاطمة، فتزوجت بع"
+    },
+    {
+      "anchor_block_id": "b000192",
+      "anchor_char_start": 57,
+      "anchor_char_end": 60,
+      "footnote_block_id": "b000196",
+      "footnote_text_preview": "في \"الإصابة\" (٧/ ٥٠٣) قال الزبير: ليس لزينب عقب، وقال أبو عمر في \"الاستيعاب\": وق"
+    },
+    {
+      "anchor_block_id": "b000192",
+      "anchor_char_start": 70,
+      "anchor_char_end": 73,
+      "footnote_block_id": "b000197",
+      "footnote_text_preview": "قال الحافظ في \"الإصابة\" (٦/ ٢٠١) في ترجمة مغيرة: قال الزبير بن بكّار: خطب معاوية"
+    },
+    {
+      "anchor_block_id": "b000193",
+      "anchor_char_start": 56,
+      "anchor_char_end": 59,
+      "footnote_block_id": "b000198",
+      "footnote_text_preview": "قال ابن سعد (٨/ ٣٦): كان تزوجها عُتبة بن أبي لهب قبل النبوة.\nقال الذهبي في \"السي"
+    },
+    {
+      "anchor_block_id": "b000199",
+      "anchor_char_start": 9,
+      "anchor_char_end": 12,
+      "footnote_block_id": "b000201",
+      "footnote_text_preview": "جاء في \"الطبقات الكبرى\" هاجرت مع عثمان الهجرتين جميعًا."
+    },
+    {
+      "anchor_block_id": "b000199",
+      "anchor_char_start": 65,
+      "anchor_char_end": 68,
+      "footnote_block_id": "b000202",
+      "footnote_text_preview": "قال ابن سعد: كانت في الهجرة الأولى قد أسقطت من عثمان سِقطًا ثم ولدت له بعد ذلك ا"
+    },
+    {
+      "anchor_block_id": "b000199",
+      "anchor_char_start": 138,
+      "anchor_char_end": 141,
+      "footnote_block_id": "b000203",
+      "footnote_text_preview": "قال ابن سعد: ومرضت ورسول الله يتجهز إلى بدر فخلف عليها رسول الله عثمان ابن عفان "
+    },
+    {
+      "anchor_block_id": "b000199",
+      "anchor_char_start": 232,
+      "anchor_char_end": 235,
+      "footnote_block_id": "b000204",
+      "footnote_text_preview": "قال ابن سعد (٨/ ٣٧): تزوجها عتبة بن أبي لهب ثم فارقها قبل أن يدخل بها، فلما توفي"
+    },
+    {
+      "anchor_block_id": "b000200",
+      "anchor_char_start": 47,
+      "anchor_char_end": 50,
+      "footnote_block_id": "b000205",
+      "footnote_text_preview": "هو أبو القاسم البغوي الحافظ. انظر ترجمته \"السير\" (١٤/ ٤٤٠)."
+    },
+    {
+      "anchor_block_id": "b000200",
+      "anchor_char_start": 84,
+      "anchor_char_end": 87,
+      "footnote_block_id": "b000206",
+      "footnote_text_preview": "الثقفي أبو عمرو البزار البغوي، صدوق من العاشرة مات سنة (٢٤٢/ ق). \"التهذيب\" (٣/ ١"
+    },
+    {
+      "anchor_block_id": "b000200",
+      "anchor_char_start": 113,
+      "anchor_char_end": 116,
+      "footnote_block_id": "b000207",
+      "footnote_text_preview": "ابن عبد الله الباهلي الحراني، ثقة من التاسعة مات سنة (١٩١ على الصحيح). \"التهذيب\""
+    },
+    {
+      "anchor_block_id": "b000208",
+      "anchor_char_start": 11,
+      "anchor_char_end": 14,
+      "footnote_block_id": "b000210",
+      "footnote_text_preview": "هو خالد بن أبي يزيد بن سمَّال (أ) بن رستم الأموي مولاهم الحراني ثقة من السادسة م"
+    },
+    {
+      "anchor_block_id": "b000208",
+      "anchor_char_start": 37,
+      "anchor_char_end": 40,
+      "footnote_block_id": "b000211",
+      "footnote_text_preview": "الجزري أبو أسامة ثقة له أفراد من السادسة مات سنة (١١٩) وقيل: (١٢٤/ع)."
+    },
+    {
+      "anchor_block_id": "b000208",
+      "anchor_char_start": 63,
+      "anchor_char_end": 66,
+      "footnote_block_id": "b000212",
+      "footnote_text_preview": "في \"تهذيب الكمال\" في ترجمة زيد: شيخ يروي عن المطلب عن أبي هريرة.\nفى \"المستدرك\" ل"
+    },
+    {
+      "anchor_block_id": "b000208",
+      "anchor_char_start": 80,
+      "anchor_char_end": 83,
+      "footnote_block_id": "b000213",
+      "footnote_text_preview": "هو المطلب بن عبد الله المخزومي صدوق كثير التدليس والإرسال من الرابعة."
+    },
+    {
+      "anchor_block_id": "b000208",
+      "anchor_char_start": 155,
+      "anchor_char_end": 158,
+      "footnote_block_id": "b000214",
+      "footnote_text_preview": "الحديث رواه الفسوي في \"المعرفة والتاريخ\" (٣/ ١٦٢) وقال: حدثنا الخليل به نحوه، ور"
+    },
+    {
+      "anchor_block_id": "b000217",
+      "anchor_char_start": 0,
+      "anchor_char_end": 4,
+      "footnote_block_id": "b000221",
+      "footnote_text_preview": "البطل الضرغام أسد الله أبو عمارة عم رسول الله -صلى الله عليه وسلم- وأخوه من الرض"
+    },
+    {
+      "anchor_block_id": "b000217",
+      "anchor_char_start": 13,
+      "anchor_char_end": 17,
+      "footnote_block_id": "b000222",
+      "footnote_text_preview": "عم النبي -صلى الله عليه وسلم- مات سنة اثنتين وثلاثين أو بعدها وهو ابن ثمان وثمان"
+    },
+    {
+      "anchor_block_id": "b000218",
+      "anchor_char_start": 0,
+      "anchor_char_end": 4,
+      "footnote_block_id": "b000223",
+      "footnote_text_preview": "شقيقة حمزة وأم حواري النبي -صلى الله عليه وسلم- الزبير بن العوام وهي من المهاجرا"
+    },
+    {
+      "anchor_block_id": "b000218",
+      "anchor_char_start": 15,
+      "anchor_char_end": 19,
+      "footnote_block_id": "b000224",
+      "footnote_text_preview": "لها ترجمة في \"الطبقات الكبرى\" (٨/ ٤٣)، \"أسد الغابة\" (٧/ ١٨٥)، \"السير\" (٢/ ٢٧٢)، "
+    },
+    {
+      "anchor_block_id": "b000218",
+      "anchor_char_start": 42,
+      "anchor_char_end": 45,
+      "footnote_block_id": "b000225",
+      "footnote_text_preview": "لهم أخوات لم يذكرهن المؤلف، مثل: أروى، وأم حكيم، وبرة، وأُّميمة. انظر \"الطبقات ا"
+    },
+    {
+      "anchor_block_id": "b000219",
+      "anchor_char_start": 106,
+      "anchor_char_end": 109,
+      "footnote_block_id": "b000226",
+      "footnote_text_preview": "سيأتي تخريجه."
+    },
+    {
+      "anchor_block_id": "b000227",
+      "anchor_char_start": 10,
+      "anchor_char_end": 13,
+      "footnote_block_id": "b000228",
+      "footnote_text_preview": "رواه الطبراني في \"الكبير\" (٣/ ١٦٦) (رقم: ٣٢٥٨) من طريق عمر بن شبة به نحوه مع اخت"
+    },
+    {
+      "anchor_block_id": "b000227",
+      "anchor_char_start": 98,
+      "anchor_char_end": 101,
+      "footnote_block_id": "b000229",
+      "footnote_text_preview": "جاء \"المعجم الكبير\": سلمى، وفي \"أسد الغابة\"، \"الإصابة\": سري."
+    },
+    {
+      "anchor_block_id": "b000227",
+      "anchor_char_start": 128,
+      "anchor_char_end": 131,
+      "footnote_block_id": "b000230",
+      "footnote_text_preview": "كذا \"الأصل\"! ولم أتبين الصواب فيه."
+    },
+    {
+      "anchor_block_id": "b000227",
+      "anchor_char_start": 194,
+      "anchor_char_end": 197,
+      "footnote_block_id": "b000231",
+      "footnote_text_preview": "جاء في \"الإصابة\"، و \"أسد الغابة\": منقذ بن سلمى."
+    },
+    {
+      "anchor_block_id": "b000227",
+      "anchor_char_start": 417,
+      "anchor_char_end": 420,
+      "footnote_block_id": "b000232",
+      "footnote_text_preview": "القَلوص: هي الناقة الشابة. \"النهاية\" (٤/ ١٠٠)."
+    },
+    {
+      "anchor_block_id": "b000227",
+      "anchor_char_start": 490,
+      "anchor_char_end": 493,
+      "footnote_block_id": "b000233",
+      "footnote_text_preview": "كتب فى الهامش: كذا في \"الأصل\".\nقلت: وحديثه عن امرأته رواه الطبراني في \"الكبير\" ("
+    },
+    {
+      "anchor_block_id": "b000234",
+      "anchor_char_start": 68,
+      "anchor_char_end": 71,
+      "footnote_block_id": "b000237",
+      "footnote_text_preview": "له سبعة عشر حديثًا في الكتب الستة. انظر \"تحفة الأشراف\" (٤/ ٢٦٤)."
+    },
+    {
+      "anchor_block_id": "b000234",
+      "anchor_char_start": 115,
+      "anchor_char_end": 118,
+      "footnote_block_id": "b000238",
+      "footnote_text_preview": "منهم عبد الله بن عباس وعبيد الله وكثير وأم كلثوم، كما في \"التهذيب\"."
+    },
+    {
+      "anchor_block_id": "b000235",
+      "anchor_char_start": 46,
+      "anchor_char_end": 49,
+      "footnote_block_id": "b000239",
+      "footnote_text_preview": "في \"السير\" (٢/ ٢٧٠): كانت يوم الخندق في حِصن حسان بن ثابت، ثم ذكر مقتل اليهودي.\n"
+    },
+    {
+      "anchor_block_id": "b000240",
+      "anchor_char_start": 7,
+      "anchor_char_end": 10,
+      "footnote_block_id": "b000242",
+      "footnote_text_preview": "رواه الحاكم في \"المستدرك\" (٤/ ٥١) وصححه، وتعقبه الذهبي بقوله: عروة لم يدرك صفية."
+    },
+    {
+      "anchor_block_id": "b000240",
+      "anchor_char_start": 56,
+      "anchor_char_end": 59,
+      "footnote_block_id": "b000243",
+      "footnote_text_preview": "رواه أبو يعلى في \"مسنده\" (٢/ ٤٣) (رقم: ٦٨٣).\nوقال الهيثمي في \"مجمع الزوائد\" (٦/ "
+    },
+    {
+      "anchor_block_id": "b000240",
+      "anchor_char_start": 105,
+      "anchor_char_end": 108,
+      "footnote_block_id": "b000244",
+      "footnote_text_preview": "لم أجد حديثها الذي رواه عنها ابنها الزبير."
+    },
+    {
+      "anchor_block_id": "b000241",
+      "anchor_char_start": 87,
+      "anchor_char_end": 90,
+      "footnote_block_id": "b000245",
+      "footnote_text_preview": "في \"الإصابة\": وذكر الزبير بن بكار أنَّها شقيقة أبي طالب وعبد الله."
+    },
+    {
+      "anchor_block_id": "b000241",
+      "anchor_char_start": 105,
+      "anchor_char_end": 108,
+      "footnote_block_id": "b000246",
+      "footnote_text_preview": "كما في \"الطبقات\"."
+    },
+    {
+      "anchor_block_id": "b000241",
+      "anchor_char_start": 158,
+      "anchor_char_end": 161,
+      "footnote_block_id": "b000247",
+      "footnote_text_preview": "قال ابن سعد: أسلمت بمكة وهاجرت إلى المدينة.\nوفي \"السير\": أسلمت وهاجرت.\nوفي \"الإص"
+    },
+    {
+      "anchor_block_id": "b000241",
+      "anchor_char_start": 173,
+      "anchor_char_end": 176,
+      "footnote_block_id": "b000248",
+      "footnote_text_preview": "ذكر القصة ابن سعد في \"الطبقات\" (٨/ ٤٣) وابن هشام في \"السيرة\" ="
+    },
+    {
+      "anchor_block_id": "b000249",
+      "anchor_char_start": 21,
+      "anchor_char_end": 24,
+      "footnote_block_id": "b000253",
+      "footnote_text_preview": "انظر شعرها في \"المعجم الكبير\" (٢٤/ ٣٤٨)."
+    },
+    {
+      "anchor_block_id": "b000250",
+      "anchor_char_start": 15,
+      "anchor_char_end": 18,
+      "footnote_block_id": "b000254",
+      "footnote_text_preview": "قال الحافظ في \"الإصابة\" (٨/ ١٣): قال الدارقطني في كتاب \"الأُخوة\": لها شعر تذكر ف"
+    },
+    {
+      "anchor_block_id": "b000256",
+      "anchor_char_start": 0,
+      "anchor_char_end": 4,
+      "footnote_block_id": "b000258",
+      "footnote_text_preview": "ابن عم رسول الله -صلى الله عليه وسلم- وسلم وزوج ابنته، من السابقين الأولين، ورجح"
+    },
+    {
+      "anchor_block_id": "b000256",
+      "anchor_char_start": 12,
+      "anchor_char_end": 16,
+      "footnote_block_id": "b000259",
+      "footnote_text_preview": "ذو الجناحين الصحابي الجليل، استشهد بمؤتمة سنة ثمان. \"الطبقات الكبرى\" (٤/ ٣٤)، \"ا"
+    },
+    {
+      "anchor_block_id": "b000256",
+      "anchor_char_start": 26,
+      "anchor_char_end": 30,
+      "footnote_block_id": "b000260",
+      "footnote_text_preview": "صحابي عالم بالنسب مات سنة ستين وقيل: بعدها. \"الطبقات الكبرى\" (٤/ ٤٢)، \"التاريخ ا"
+    },
+    {
+      "anchor_block_id": "b000257",
+      "anchor_char_start": 0,
+      "anchor_char_end": 4,
+      "footnote_block_id": "b000261",
+      "footnote_text_preview": "اسمها فاختة، وقيل: هند، لها صحبة وأحاديث، ماتت في خلافة معاوية. \"طبقات ابن سعد\" "
+    },
+    {
+      "anchor_block_id": "b000257",
+      "anchor_char_start": 18,
+      "anchor_char_end": 22,
+      "footnote_block_id": "b000262",
+      "footnote_text_preview": "جُمانة -بضم أوله وتخفيف الميم-، قسم لها النبي -صلى الله عليه وسلم- من خيبر ثلاثي"
+    },
+    {
+      "anchor_block_id": "b000257",
+      "anchor_char_start": 46,
+      "anchor_char_end": 49,
+      "footnote_block_id": "b000263",
+      "footnote_text_preview": "لهم أخت ثالثة وهي ريطة أو أم طالب، لها ترجمة. \"الطبقات الكبرى\" ="
+    },
+    {
+      "anchor_block_id": "b000264",
+      "anchor_char_start": 6,
+      "anchor_char_end": 9,
+      "footnote_block_id": "b000268",
+      "footnote_text_preview": "أسلمت وماتت في حياة النبي -صلى الله عليه وسلم. \"الطبقات الكبرى\" (٨/ ٢٢٢)."
+    },
+    {
+      "anchor_block_id": "b000264",
+      "anchor_char_start": 54,
+      "anchor_char_end": 57,
+      "footnote_block_id": "b000269",
+      "footnote_text_preview": "في \"السير\": وهو أكبر أخوته وآخرهم موتًا."
+    },
+    {
+      "anchor_block_id": "b000264",
+      "anchor_char_start": 169,
+      "anchor_char_end": 172,
+      "footnote_block_id": "b000270",
+      "footnote_text_preview": "قال ابن سعد في \"الطبقات\" (٤/ ٤٢) في ترجمة عَقِيل: كان أسن بني أبى طالب بعد طالب "
+    },
+    {
+      "anchor_block_id": "b000265",
+      "anchor_char_start": 68,
+      "anchor_char_end": 71,
+      "footnote_block_id": "b000271",
+      "footnote_text_preview": "أحاديثه في الكتب الستة عددها (٣٣٢) حديثًا كما في \"تحفة الأشراف\" (٧/ ٢٦)، وفي \"مس"
+    },
+    {
+      "anchor_block_id": "b000266",
+      "anchor_char_start": 42,
+      "anchor_char_end": 45,
+      "footnote_block_id": "b000272",
+      "footnote_text_preview": "في \"سيرة ابن إسحاق\" (١٤٣)، و\"الطبقات الكبرى\" (٤/ ٣٤): أسلم جعفر قبل أن يدخل رسول"
+    },
+    {
+      "anchor_block_id": "b000266",
+      "anchor_char_start": 61,
+      "anchor_char_end": 64,
+      "footnote_block_id": "b000273",
+      "footnote_text_preview": "انظر قصته مع النجاشي ومع رسل قريش في \"سيرة ابن إسحاق\" (٢١٣ - ٢١٥، ٢٢٦). وجاء في "
+    },
+    {
+      "anchor_block_id": "b000266",
+      "anchor_char_start": 150,
+      "anchor_char_end": 153,
+      "footnote_block_id": "b000274",
+      "footnote_text_preview": "لم أر أحدًا قال: روى عنه أبو موسى الأشعري؛ والذي في \"تهذيب الكمال\"، \"والتهذيب\": "
+    },
+    {
+      "anchor_block_id": "b000275",
+      "anchor_char_start": 167,
+      "anchor_char_end": 170,
+      "footnote_block_id": "b000279",
+      "footnote_text_preview": "رواه ابن أبي شيبة في \"المصنف\" (١٢/ ١٠٦) وابن أبي عاصم في \"الآحاد والمثاني\" (١/ ٢"
+    },
+    {
+      "anchor_block_id": "b000276",
+      "anchor_char_start": 13,
+      "anchor_char_end": 16,
+      "footnote_block_id": "b000280",
+      "footnote_text_preview": "جاء في \"صحيح البخاري\" في غزوة مؤتة (٧/ ٥١٠) عن ابن عمر أنَّه وقف على جعفر يومئذ "
+    },
+    {
+      "anchor_block_id": "b000277",
+      "anchor_char_start": 35,
+      "anchor_char_end": 38,
+      "footnote_block_id": "b000281",
+      "footnote_text_preview": "وفي \"الطبقات\" (٤/ ٤٢): وكان لعقيل من الولد يزيد -وبه كان يكنى- وسعيد وجعفر الأكب"
+    },
+    {
+      "anchor_block_id": "b000282",
+      "anchor_char_start": 27,
+      "anchor_char_end": 30,
+      "footnote_block_id": "b000284",
+      "footnote_text_preview": "قال ابن عبد البر في \"الاستيعاب\": اختلف في اسمها فقيل: هند، وقيل: فاختة. وقال الح"
+    },
+    {
+      "anchor_block_id": "b000282",
+      "anchor_char_start": 46,
+      "anchor_char_end": 49,
+      "footnote_block_id": "b000285",
+      "footnote_text_preview": "كما في \"الطبقات الكبري\" (٨/ ٤٧)."
+    },
+    {
+      "anchor_block_id": "b000282",
+      "anchor_char_start": 113,
+      "anchor_char_end": 116,
+      "footnote_block_id": "b000286",
+      "footnote_text_preview": "في \"الطبقات\": ولدت له جعدة بن هبيرة.\nوفي \"الاستيعاب\": وكان له منها عمرو -وبه كان"
+    },
+    {
+      "anchor_block_id": "b000282",
+      "anchor_char_start": 125,
+      "anchor_char_end": 128,
+      "footnote_block_id": "b000287",
+      "footnote_text_preview": "فى \"الاستيعاب\" أسلمت يوم الفتح."
+    },
+    {
+      "anchor_block_id": "b000282",
+      "anchor_char_start": 175,
+      "anchor_char_end": 178,
+      "footnote_block_id": "b000288",
+      "footnote_text_preview": "فى \"الاستيعاب\": هرب هبيرة لما فتحت مكة إلى نجران، وقال في ذلك شعرًا يعتذر فيه عن"
+    },
+    {
+      "anchor_block_id": "b000282",
+      "anchor_char_start": 207,
+      "anchor_char_end": 210,
+      "footnote_block_id": "b000289",
+      "footnote_text_preview": "قال الذهبى في \"السير\" (٢/ ٣١٣): لم يذكر أحد أن هبيرة أسلم."
+    },
+    {
+      "anchor_block_id": "b000283",
+      "anchor_char_start": 33,
+      "anchor_char_end": 36,
+      "footnote_block_id": "b000290",
+      "footnote_text_preview": "في \"الطبقات\": تزوجها أبو سفيان بن الحارث فولدت له جعفر بن أبى سفيان.\nوفي \"الإصاب"
+    },
+    {
+      "anchor_block_id": "b000292",
+      "anchor_char_start": 0,
+      "anchor_char_end": 4,
+      "footnote_block_id": "b000295",
+      "footnote_text_preview": "أسلم يوم بدر ولما أسلم آخى النبي -صلى الله عليه وسلم- بينه وبين العباس. \"الطبقات"
+    },
+    {
+      "anchor_block_id": "b000292",
+      "anchor_char_start": 13,
+      "anchor_char_end": 17,
+      "footnote_block_id": "b000296",
+      "footnote_text_preview": "ابن عم النبي -صلى الله عليه وسلم- له صحبة. \"الطبقات الكبرى\" (٤/ ٧٤)، \"التاريخ ال"
+    },
+    {
+      "anchor_block_id": "b000293",
+      "anchor_char_start": 0,
+      "anchor_char_end": 4,
+      "footnote_block_id": "b000297",
+      "footnote_text_preview": "ابن عم النبي -صلى الله عليه وسلم- وأخوه من الرضاعة أرضعتهما حليمة. \"الطبقات الكب"
+    },
+    {
+      "anchor_block_id": "b000293",
+      "anchor_char_start": 19,
+      "anchor_char_end": 23,
+      "footnote_block_id": "b000298",
+      "footnote_text_preview": "ابن عم النبي -صلى الله عليه وسلم- خرج من مكة مهاجرًا قبل الفتح فقدم المدينة. \"ال"
+    },
+    {
+      "anchor_block_id": "b000294",
+      "anchor_char_start": 0,
+      "anchor_char_end": 4,
+      "footnote_block_id": "b000299",
+      "footnote_text_preview": "ذكره ابن حزم في \"جمهرة أنساب العرب\" (٧٠) في أولاد الحارث وقال: لا عقب له. وفي \"ا"
+    },
+    {
+      "anchor_block_id": "b000300",
+      "anchor_char_start": 27,
+      "anchor_char_end": 30,
+      "footnote_block_id": "b000302",
+      "footnote_text_preview": "قال ابن سعد: كان لنوفل من الولد الحارث -وبه كان يكنى وكان رجلًا وكان على عهد رسو"
+    },
+    {
+      "anchor_block_id": "b000300",
+      "anchor_char_start": 41,
+      "anchor_char_end": 44,
+      "footnote_block_id": "b000303",
+      "footnote_text_preview": "في \"الإصابة\": قال الزبير بن بكار: كان أسن من أسلم من بني هاشم حتى من عميه حمزة و"
+    },
+    {
+      "anchor_block_id": "b000300",
+      "anchor_char_start": 98,
+      "anchor_char_end": 101,
+      "footnote_block_id": "b000304",
+      "footnote_text_preview": "قال ابن سعد: شهد نوفل مع رسول الله -صلى الله عليه وسلم- فتح مكة وحنين والطائف وث"
+    },
+    {
+      "anchor_block_id": "b000300",
+      "anchor_char_start": 158,
+      "anchor_char_end": 161,
+      "footnote_block_id": "b000305",
+      "footnote_text_preview": "ذكر له الحافظ في \"الإصابة\" حديثًا وقال: أخرجه ابن قانع وابن السَّكن، وفي سنده ضع"
+    },
+    {
+      "anchor_block_id": "b000300",
+      "anchor_char_start": 175,
+      "anchor_char_end": 178,
+      "footnote_block_id": "b000306",
+      "footnote_text_preview": "في \"الطبقات\": توفي نوفل بعد أن استخلف عمر بسنة وثلاثة أشهر فصلى عليه عمر ثم تبعه"
+    },
+    {
+      "anchor_block_id": "b000300",
+      "anchor_char_start": 246,
+      "anchor_char_end": 249,
+      "footnote_block_id": "b000307",
+      "footnote_text_preview": "هو عبد الله بن الحارث بن نوفل أبو محمد المدني لقبه (ببّه) أمير البصرة له رؤية، ق"
+    },
+    {
+      "anchor_block_id": "b000301",
+      "anchor_char_start": 46,
+      "anchor_char_end": 49,
+      "footnote_block_id": "b000308",
+      "footnote_text_preview": "فى \"الطبقات\" و\"السير\" قالوا: كان ربيعة بن الحارث أسن من عمه العباس بسنتين."
+    },
+    {
+      "anchor_block_id": "b000309",
+      "anchor_char_start": 3,
+      "anchor_char_end": 6,
+      "footnote_block_id": "b000314",
+      "footnote_text_preview": "في \"تهذيب الكمال\" و \"التهذيب\": روى عن ابن عمه الفضل بن عباس."
+    },
+    {
+      "anchor_block_id": "b000310",
+      "anchor_char_start": 38,
+      "anchor_char_end": 41,
+      "footnote_block_id": "b000315",
+      "footnote_text_preview": "كما في \"الطبقات\"، وفي \"الإصابة\": قال الدارقطني في كتاب \"الأُخوة\": أطعمه النبي -ص"
+    },
+    {
+      "anchor_block_id": "b000310",
+      "anchor_char_start": 97,
+      "anchor_char_end": 100,
+      "footnote_block_id": "b000316",
+      "footnote_text_preview": "في \"الطبقات\": توفي في خلافة عمر بالمدينة بعد أخويه نوفل وأبي سفيان بن الحارث."
+    },
+    {
+      "anchor_block_id": "b000311",
+      "anchor_char_start": 39,
+      "anchor_char_end": 42,
+      "footnote_block_id": "b000317",
+      "footnote_text_preview": "في \"السير\": سماه هشام الكلبي والزيير مغيرة، وقالت طائفةً: اسمه كنيته، وإنَّما ال"
+    },
+    {
+      "anchor_block_id": "b000311",
+      "anchor_char_start": 56,
+      "anchor_char_end": 59,
+      "footnote_block_id": "b000318",
+      "footnote_text_preview": "فى \"السير\": تلقى النبي -صلى الله عليه وسلم- في الطريق قبل أن يدخل مكة مسلمًا فان"
+    },
+    {
+      "anchor_block_id": "b000311",
+      "anchor_char_start": 73,
+      "anchor_char_end": 76,
+      "footnote_block_id": "b000319",
+      "footnote_text_preview": "فى \"صحيح مسلم\" (٣/ ١٣٩٨) أنَّهُ لم تفارق يده لجام بغله رسول الله حتى انصرف الناس"
+    },
+    {
+      "anchor_block_id": "b000311",
+      "anchor_char_start": 189,
+      "anchor_char_end": 192,
+      "footnote_block_id": "b000320",
+      "footnote_text_preview": "رواه الطبراني في \"الكبير\" (٢٢/ ٣٢٧) عن أبي حبّة البدري، وقال الهيثمى في \"مجمع ال"
+    },
+    {
+      "anchor_block_id": "b000321",
+      "anchor_char_start": 199,
+      "anchor_char_end": 202,
+      "footnote_block_id": "b000325",
+      "footnote_text_preview": "قال الحافظ فى \"الإصابة\" (٧/ ١٨٠): قد أُسند عنه حديث أخرجه الدارقطني فى كتاب \"الأ"
+    },
+    {
+      "anchor_block_id": "b000322",
+      "anchor_char_start": 35,
+      "anchor_char_end": 38,
+      "footnote_block_id": "b000326",
+      "footnote_text_preview": "في \"الطبقات\": مات أبو سفيان بالمدينة بعد أخيه نوفل بن الحارث بأربعة أشهر إلّا ثل"
+    },
+    {
+      "anchor_block_id": "b000323",
+      "anchor_char_start": 65,
+      "anchor_char_end": 68,
+      "footnote_block_id": "b000327",
+      "footnote_text_preview": "كما في \"الطبقات الكبرى\"، وفي \"الإصابة\": كان اسمه عبد شمس فغيّره النبي -صلى الله "
+    },
+    {
+      "anchor_block_id": "b000324",
+      "anchor_char_start": 5,
+      "anchor_char_end": 8,
+      "footnote_block_id": "b000328",
+      "footnote_text_preview": "روى في \"الطبقات\": أنَّه خرج مع الرسول في بعض مغازيه فمات بالصفراء فدفنه النبي -ص"
+    },
+    {
+      "anchor_block_id": "b000324",
+      "anchor_char_start": 68,
+      "anchor_char_end": 71,
+      "footnote_block_id": "b000329",
+      "footnote_text_preview": "وفي \"الإصابة\" بعد نقل قول الدارقطني هذا: وكذا قال قبله شيخُه البغوي."
+    },
+    {
+      "anchor_block_id": "b000331",
+      "anchor_char_start": 53,
+      "anchor_char_end": 56,
+      "footnote_block_id": "b000334",
+      "footnote_text_preview": "في \"الإصابة\" أسلم هو وابنه المطلب في الفتح واسمه الحارث، \"الإصابة\" (٧/ ٤٥٨)."
+    },
+    {
+      "anchor_block_id": "b000331",
+      "anchor_char_start": 68,
+      "anchor_char_end": 71,
+      "footnote_block_id": "b000335",
+      "footnote_text_preview": "جاء في \"الطبقات\" و\"الإصابة\": صبرة، أما في \"أسد الغابة\" و \"الاستيعاب\": صبيرة، وال"
+    },
+    {
+      "anchor_block_id": "b000331",
+      "anchor_char_start": 87,
+      "anchor_char_end": 90,
+      "footnote_block_id": "b000336",
+      "footnote_text_preview": "في \"الطبقات\": فولدت له المطللب وأبا سفيان وأم جميل وأم حكيم والربعة بنى أبي وَدا"
+    },
+    {
+      "anchor_block_id": "b000332",
+      "anchor_char_start": 21,
+      "anchor_char_end": 24,
+      "footnote_block_id": "b000337",
+      "footnote_text_preview": "قال الحافظ في \"الإصابة\" (٦/ ١٣٢): ذكره ابن سعد في مسلمة الفتح، وقال الواقدي: نزل"
+    },
+    {
+      "anchor_block_id": "b000332",
+      "anchor_char_start": 34,
+      "anchor_char_end": 37,
+      "footnote_block_id": "b000338",
+      "footnote_text_preview": "وحديثه رواه النسائي (٢/ ١٦٠)، وأحمد (٣/ ٤٢٠)، (٤/ ٢١٥) وعبد الرزاق في \"المصنف\" ("
+    },
+    {
+      "anchor_block_id": "b000340",
+      "anchor_char_start": 0,
+      "anchor_char_end": 4,
+      "footnote_block_id": "b000342",
+      "footnote_text_preview": "ابن عم النبي -صلى الله عليه وسلم- وأكبر ولد العباس، استشهد في خلافة عمر. \"طبقات "
+    },
+    {
+      "anchor_block_id": "b000340",
+      "anchor_char_start": 14,
+      "anchor_char_end": 18,
+      "footnote_block_id": "b000343",
+      "footnote_text_preview": "كان يسمى البحر والحبَر لسعة علمه، وقال ابن عمر: لو أدرك ابن عباس أسناننا ما عاشر"
+    },
+    {
+      "anchor_block_id": "b000340",
+      "anchor_char_start": 32,
+      "anchor_char_end": 36,
+      "footnote_block_id": "b000344",
+      "footnote_text_preview": "من صغار الصحابة كان سخيًا جوادًا. \"المعرفة والتاريخ\" (٣/ ٣٢٢)، \"أسد الغابة\" (٣/ "
+    },
+    {
+      "anchor_block_id": "b000341",
+      "anchor_char_start": 0,
+      "anchor_char_end": 4,
+      "footnote_block_id": "b000345",
+      "footnote_text_preview": "قُثَم -بضم القاف وفتح المثلثة- صحابي صغير مات سنة سبع وخمسين. \"الطبقات الكبرى\" ("
+    },
+    {
+      "anchor_block_id": "b000341",
+      "anchor_char_start": 15,
+      "anchor_char_end": 19,
+      "footnote_block_id": "b000346",
+      "footnote_text_preview": "من صِغار ولد عباس. \"أسد الغابة\" (٥/ ٢٢٠)، \"السير\" (٣/ ٤٤٢)، \"الإصابة\" (٦/ ٢٣٦)."
+    },
+    {
+      "anchor_block_id": "b000341",
+      "anchor_char_start": 31,
+      "anchor_char_end": 35,
+      "footnote_block_id": "b000347",
+      "footnote_text_preview": "فى \"الإصابة\": أحد الأُخوة، قال مصعب الزبيري: ولد في عهد النبي -صلى الله عليه وسل"
+    },
+    {
+      "anchor_block_id": "b000348",
+      "anchor_char_start": 0,
+      "anchor_char_end": 4,
+      "footnote_block_id": "b000350",
+      "footnote_text_preview": "في \"الإصابة\": أم حبيب أو أم حبيبة، والأول أشهر، لها رؤية. \"الطبقات الكبرى\" (٨/ ٤"
+    },
+    {
+      "anchor_block_id": "b000348",
+      "anchor_char_start": 15,
+      "anchor_char_end": 18,
+      "footnote_block_id": "b000351",
+      "footnote_text_preview": "فى \"الإصابة\": قال أبو عمر: أمها أم الفصل فهي شقيقة الفضل وعبد الله."
+    },
+    {
+      "anchor_block_id": "b000348",
+      "anchor_char_start": 25,
+      "anchor_char_end": 28,
+      "footnote_block_id": "b000352",
+      "footnote_text_preview": "فى \"السير\" (٢/ ٣١٤): زوجة العباس وأم أولاده الرجال الستة النجباء."
+    },
+    {
+      "anchor_block_id": "b000348",
+      "anchor_char_start": 38,
+      "anchor_char_end": 41,
+      "footnote_block_id": "b000353",
+      "footnote_text_preview": "وهي أخت أم المؤمنين ميمونة وخالة خالد بن الوليد وأخت أَسماء بن عُميس لأمها، ماتت"
+    },
+    {
+      "anchor_block_id": "b000349",
+      "anchor_char_start": 0,
+      "anchor_char_end": 4,
+      "footnote_block_id": "b000354",
+      "footnote_text_preview": "قال الحافظ في \"الإصابة\" (١/ ٣٧٥): قال ابن السَّكن: يقال: كان أصغر إخوته وكان أشد"
+    },
+    {
+      "anchor_block_id": "b000349",
+      "anchor_char_start": 15,
+      "anchor_char_end": 19,
+      "footnote_block_id": "b000355",
+      "footnote_text_preview": "قال الذهبي في \"السير\": كان فقيهًا جليلًا صالحًا ثقة لا عقب له، وفي \"الإصابة\": قا"
+    },
+    {
+      "anchor_block_id": "b000349",
+      "anchor_char_start": 43,
+      "anchor_char_end": 46,
+      "footnote_block_id": "b000356",
+      "footnote_text_preview": "قال ابن الأثير في \"أسد الغابة\" (١/ ٢٥٣) فى ترجمة تمام: أمه أم ولد رومية، وشقيقه "
+    },
+    {
+      "anchor_block_id": "b000357",
+      "anchor_char_start": 0,
+      "anchor_char_end": 4,
+      "footnote_block_id": "b000363",
+      "footnote_text_preview": "قال الحافظ في \"الإصابة\" (٢/ ١٥١): قال أبو عمر: لكل ولد العباس رؤية والصحبة للفضل"
+    },
+    {
+      "anchor_block_id": "b000357",
+      "anchor_char_start": 37,
+      "anchor_char_end": 40,
+      "footnote_block_id": "b000364",
+      "footnote_text_preview": "قال ابن الأثير في \"أسد الغابة\" (١/ ٤٠١): أمّهُ امرأة من هذيل.\nوفيّ \"الإصابة\" (٢/"
+    },
+    {
+      "anchor_block_id": "b000358",
+      "anchor_char_start": 0,
+      "anchor_char_end": 4,
+      "footnote_block_id": "b000365",
+      "footnote_text_preview": "قال الحافظ في \"الإصابة\" (٧/ ٥٣٣): ذكرها الدارقطني في \"الأُخوة\" وقال: تزوجها العب"
+    },
+    {
+      "anchor_block_id": "b000359",
+      "anchor_char_start": 0,
+      "anchor_char_end": 4,
+      "footnote_block_id": "b000366",
+      "footnote_text_preview": "لم يذكرها ابن الأثير في \"أسد الغابة\" ولا الحافظ في \"الإصابة\"، وجاء ذكرها في \"الط"
+    },
+    {
+      "anchor_block_id": "b000360",
+      "anchor_char_start": 0,
+      "anchor_char_end": 4,
+      "footnote_block_id": "b000367",
+      "footnote_text_preview": "في \"أسد الغابة\" (٧/ ٣٨٥): أدركت النبي -صلى الله عليه وسلم- وأمها أم سلمة بنت محم"
+    },
+    {
+      "anchor_block_id": "b000361",
+      "anchor_char_start": 0,
+      "anchor_char_end": 4,
+      "footnote_block_id": "b000368",
+      "footnote_text_preview": "قال الحافظ في \"الإصابة\" (١/ ٣٧٦): الأُخوة عشرة هم؛ الفضل وعبد الله وعبيد الله وق"
+    },
+    {
+      "anchor_block_id": "b000362",
+      "anchor_char_start": 0,
+      "anchor_char_end": 4,
+      "footnote_block_id": "b000369",
+      "footnote_text_preview": "قال الحافظ في \"الإصابة\" (٦/ ٢٦٠): عدّه أبو بكر بن دُريد في أولاد العباس، واستدرك"
+    },
+    {
+      "anchor_block_id": "b000371",
+      "anchor_char_start": 0,
+      "anchor_char_end": 4,
+      "footnote_block_id": "b000374",
+      "footnote_text_preview": "لم أجد ترجمتها."
+    },
+    {
+      "anchor_block_id": "b000372",
+      "anchor_char_start": 0,
+      "anchor_char_end": 4,
+      "footnote_block_id": "b000375",
+      "footnote_text_preview": "جاء ذكرها في \"الطبقات الكبرى\" (٤/ ٦) في ترجمة أبيها العباس باسم أُميمة."
+    },
+    {
+      "anchor_block_id": "b000373",
+      "anchor_char_start": 33,
+      "anchor_char_end": 36,
+      "footnote_block_id": "b000376",
+      "footnote_text_preview": "قال الحافظ في \"الإصابة\": وكان يكنى أبا العباس وأبا عبد الله ويقال: كنيته أبو محم"
+    },
+    {
+      "anchor_block_id": "b000373",
+      "anchor_char_start": 54,
+      "anchor_char_end": 57,
+      "footnote_block_id": "b000377",
+      "footnote_text_preview": "كناه بها ابن سعد في \"الطبقات\" وابن أبي عاصم في \"الآحاد\"."
+    },
+    {
+      "anchor_block_id": "b000373",
+      "anchor_char_start": 73,
+      "anchor_char_end": 76,
+      "footnote_block_id": "b000378",
+      "footnote_text_preview": "جاء في \"الصحيحين\" وغيرهما: أنَّ النبي -صلى الله عليه وسلم- أردفه خلفه في حجة الو"
+    },
+    {
+      "anchor_block_id": "b000373",
+      "anchor_char_start": 126,
+      "anchor_char_end": 129,
+      "footnote_block_id": "b000379",
+      "footnote_text_preview": "لم أجد من قال: إنَّ أباه روى عنه. وانظر \"تهذيب الكمال\" (٢/ ١٠٩٩ - القسم المخطوط)"
+    },
+    {
+      "anchor_block_id": "b000373",
+      "anchor_char_start": 213,
+      "anchor_char_end": 216,
+      "footnote_block_id": "b000380",
+      "footnote_text_preview": "قال الحافظ في \"الإصابة\" (٥/ ٣٧٦): قال الواقدي: مات في طاعون عمواس وتبعه الزبير و"
+    },
+    {
+      "anchor_block_id": "b000373",
+      "anchor_char_start": 327,
+      "anchor_char_end": 330,
+      "footnote_block_id": "b000381",
+      "footnote_text_preview": "وقال ابن سعد (٤/ ٥٤): مات بناحية الأردن في خلافة عمر. قال الحافظ: والأول هو المع"
+    },
+    {
+      "anchor_block_id": "b000383",
+      "anchor_char_start": 30,
+      "anchor_char_end": 33,
+      "footnote_block_id": "b000386",
+      "footnote_text_preview": "قال ابن سعد في \"الطبقات\": فولد للفضل أم كلثوم ولم يلد غيرها."
+    },
+    {
+      "anchor_block_id": "b000383",
+      "anchor_char_start": 83,
+      "anchor_char_end": 86,
+      "footnote_block_id": "b000387",
+      "footnote_text_preview": "جعل في \"أسد الغابة\" ذلك لأم كلثوم بنت العباس، وقد نبه على ذلك الحافظ في \"الإصابة"
+    },
+    {
+      "anchor_block_id": "b000383",
+      "anchor_char_start": 127,
+      "anchor_char_end": 130,
+      "footnote_block_id": "b000388",
+      "footnote_text_preview": "قال الحافظ في \"تهذيب التهذيب\" (١٠/ ٣٧٣) في ترجمة موسى بن أبي موسى: ذكره أبو نعيم"
+    },
+    {
+      "anchor_block_id": "b000384",
+      "anchor_char_start": 60,
+      "anchor_char_end": 63,
+      "footnote_block_id": "b000389",
+      "footnote_text_preview": "قال الذهبي في \"السير\" (٣/ ٣٣٥): قال الواقدي: لا خلاف أَنَّه ولد في الشِّعْب، وبن"
+    },
+    {
+      "anchor_block_id": "b000384",
+      "anchor_char_start": 158,
+      "anchor_char_end": 161,
+      "footnote_block_id": "b000390",
+      "footnote_text_preview": "في \"السير\": قال الزبير بن بَكّار: توفي رسول الله -صلى الله عليه وسلم- ولابن عباس"
+    },
+    {
+      "anchor_block_id": "b000384",
+      "anchor_char_start": 188,
+      "anchor_char_end": 191,
+      "footnote_block_id": "b000391",
+      "footnote_text_preview": "روى الطيالسي في \"مسنده\" -كما في \"المنحة\" (٢/ ١٤٨) -، وأحمد في \"المسند\" (١/ ٣٧٣)،"
+    },
+    {
+      "anchor_block_id": "b000392",
+      "anchor_char_start": 10,
+      "anchor_char_end": 13,
+      "footnote_block_id": "b000396",
+      "footnote_text_preview": "رواه أحمد في \"المسند\" (١/ ٢٦٦، ٣١٤، ٣٣٥)، والفسوي في \"تاريخه\" (١/ ٤٩٤)، وابن أبي"
+    },
+    {
+      "anchor_block_id": "b000392",
+      "anchor_char_start": 98,
+      "anchor_char_end": 101,
+      "footnote_block_id": "b000397",
+      "footnote_text_preview": "قال الذهبي في \"السير\": قال علي بن المديني: توفي ابن عباس سنة ثمان أو سبع وستين، "
+    },
+    {
+      "anchor_block_id": "b000392",
+      "anchor_char_start": 135,
+      "anchor_char_end": 138,
+      "footnote_block_id": "b000398",
+      "footnote_text_preview": "في \"الإصابة\": قال الزبير بن بكار: ومات بالطائف فصلى عليه ابن الحنفية."
+    },
+    {
+      "anchor_block_id": "b000394",
+      "anchor_char_start": 51,
+      "anchor_char_end": 54,
+      "footnote_block_id": "b000399",
+      "footnote_text_preview": "قال الحافظ في \"الإصابة\" (٤/ ٣٩٦): كان أصغر من عبد الله بسنة، قاله مصعب وابن سعد "
+    },
+    {
+      "anchor_block_id": "b000400",
+      "anchor_char_start": 18,
+      "anchor_char_end": 21,
+      "footnote_block_id": "b000403",
+      "footnote_text_preview": "في \"الأصل\": شيخًا، والصواب ما في \"الإصابة\" قال الزبير: كان سخيًا جوادًا … واستعم"
+    },
+    {
+      "anchor_block_id": "b000400",
+      "anchor_char_start": 36,
+      "anchor_char_end": 39,
+      "footnote_block_id": "b000404",
+      "footnote_text_preview": "في \"الإصابة\": قال خليفة (٢٢٥): مات سنة ثمان وخمسين بالمدينة، وقال الواقدي: بقي إ"
+    },
+    {
+      "anchor_block_id": "b000401",
+      "anchor_char_start": 28,
+      "anchor_char_end": 31,
+      "footnote_block_id": "b000405",
+      "footnote_text_preview": "رواه أحمد في \"مسنده\" (١/ ٢٠٥)، والبخاري في \"تاريخه\" (٧/ ١٩٧) عن عبد الله بن جعفر"
+    },
+    {
+      "anchor_block_id": "b000401",
+      "anchor_char_start": 73,
+      "anchor_char_end": 76,
+      "footnote_block_id": "b000406",
+      "footnote_text_preview": "في \"الإصابة\" قال ابن السكن وغيره: كان يشبه النبي -صلى الله عليه وسلم-."
+    },
+    {
+      "anchor_block_id": "b000401",
+      "anchor_char_start": 142,
+      "anchor_char_end": 145,
+      "footnote_block_id": "b000407",
+      "footnote_text_preview": "قال الذهبي في \"السير\": قال الزبير بن بكار: استعمله علي على المدينة.\nوقال خليفة ف"
+    },
+    {
+      "anchor_block_id": "b000401",
+      "anchor_char_start": 186,
+      "anchor_char_end": 189,
+      "footnote_block_id": "b000408",
+      "footnote_text_preview": "رواه أحمد في \"المسند\" (١/ ١٠١)، وابن أبي عاصم في \"الآحاد والمثاني\" (١/ ٢٩٥) عن ع"
+    },
+    {
+      "anchor_block_id": "b000402",
+      "anchor_char_start": 12,
+      "anchor_char_end": 15,
+      "footnote_block_id": "b000409",
+      "footnote_text_preview": "في \"الأصل\": أبي!"
+    },
+    {
+      "anchor_block_id": "b000410",
+      "anchor_char_start": 40,
+      "anchor_char_end": 43,
+      "footnote_block_id": "b000416",
+      "footnote_text_preview": "رواه ابن أبي عاصم في \"الآحاد والمثاني\" (١/ ٢٩٤) (رقم: ٣٩٩)، والطبراني (١٩/ ٤٠) ("
+    },
+    {
+      "anchor_block_id": "b000412",
+      "anchor_char_start": 9,
+      "anchor_char_end": 12,
+      "footnote_block_id": "b000417",
+      "footnote_text_preview": "قال مصعب الزبيري في \"نسب قريش\" (٢٧): استشهد بسمرقند كان خرج مع سعيد بن عثمان زمن"
+    },
+    {
+      "anchor_block_id": "b000413",
+      "anchor_char_start": 33,
+      "anchor_char_end": 36,
+      "footnote_block_id": "b000418",
+      "footnote_text_preview": "قال الحافظ في \"الإصابة\": وذكر الدارقطني في كتاب \"الأخوة\": أن عليًا ولاه مكة."
+    },
+    {
+      "anchor_block_id": "b000413",
+      "anchor_char_start": 60,
+      "anchor_char_end": 63,
+      "footnote_block_id": "b000419",
+      "footnote_text_preview": "في \"الإصابة\": استشهد بإفريقية في خلافة عثمان سنة خمس وثلاثين، وقيل: استشهد بها ب"
+    },
+    {
+      "anchor_block_id": "b000414",
+      "anchor_char_start": 37,
+      "anchor_char_end": 40,
+      "footnote_block_id": "b000420",
+      "footnote_text_preview": "في \"السير\": له أولاد: عبد الله وعباس وميمونة.\nقلت: يقصدُ -رحمه الله- أولاد عبد ا"
+    },
+    {
+      "anchor_block_id": "b000422",
+      "anchor_char_start": 19,
+      "anchor_char_end": 22,
+      "footnote_block_id": "b000425",
+      "footnote_text_preview": "وَقَعَ هنا سَقطٌ في أصل المخطوط -وقد أشرتُ إليه في المقدِّمة- وهو في أولاد أبي ب"
+    },
+    {
+      "anchor_block_id": "b000423",
+      "anchor_char_start": 0,
+      "anchor_char_end": 4,
+      "footnote_block_id": "b000426",
+      "footnote_text_preview": "مقبول من الثالثة مات بعد السبعين/ خ م خد س ق. \"الطبقات الكبرى\" (٥/ ١٩٤)، \"التهذي"
+    },
+    {
+      "anchor_block_id": "b000423",
+      "anchor_char_start": 55,
+      "anchor_char_end": 58,
+      "footnote_block_id": "b000427",
+      "footnote_text_preview": "قال ابن سعد في \"الطبقات\" (٨/ ٢٦٢): أسلمت وبايعت وتزوجها عبد الرحمن بن أبي بكر فو"
+    },
+    {
+      "anchor_block_id": "b000424",
+      "anchor_char_start": 0,
+      "anchor_char_end": 4,
+      "footnote_block_id": "b000428",
+      "footnote_text_preview": "لم أجد ترجمة اسماعيل."
+    },
+    {
+      "anchor_block_id": "b000424",
+      "anchor_char_start": 107,
+      "anchor_char_end": 110,
+      "footnote_block_id": "b000429",
+      "footnote_text_preview": "لم أجد الحديث من طريق إسماعيل؛ والحديثُ رواه البخاري كتاب الحج (٣/ ٤٣٩)، ومسلم ك"
+    },
+    {
+      "anchor_block_id": "b000431",
+      "anchor_char_start": 0,
+      "anchor_char_end": 4,
+      "footnote_block_id": "b000434",
+      "footnote_text_preview": "ثقة من الثالثة/ م د ت ق. \"الطبقات الكبرى\" (٨/ ٤٦٨)، \"التهذيب\" (١٢/ ٤١٠)."
+    },
+    {
+      "anchor_block_id": "b000431",
+      "anchor_char_start": 42,
+      "anchor_char_end": 45,
+      "footnote_block_id": "b000435",
+      "footnote_text_preview": "في \"الطبقات\" (٨/ ٤٦٨): فولدت له عبد الرحمن وإبراهيم وقرينة، ثم خلف عليها بعد الم"
+    },
+    {
+      "anchor_block_id": "b000431",
+      "anchor_char_start": 66,
+      "anchor_char_end": 69,
+      "footnote_block_id": "b000437",
+      "footnote_text_preview": "ثقة أحد الفقهاء بالمدينة. \"التهذيب\" (٨/ ٣٣٣)."
+    },
+    {
+      "anchor_block_id": "b000432",
+      "anchor_char_start": 0,
+      "anchor_char_end": 4,
+      "footnote_block_id": "b000436",
+      "footnote_text_preview": "مقبولة من الثالثة/ خد. \"الطبقات الكبرى\" (٨/ ٤٦٩)، \"التهذيب\" (١٢/ ٣٩٨)."
+    },
+    {
+      "anchor_block_id": "b000432",
+      "anchor_char_start": 43,
+      "anchor_char_end": 46,
+      "footnote_block_id": "b000438",
+      "footnote_text_preview": "في \"الطبقات\" (٨/ ٤٦٩): تزوجها القاسم فولدت له عبد الرحمن بن القاسم وأم فروة."
+    },
+    {
+      "anchor_block_id": "b000439",
+      "anchor_char_start": 56,
+      "anchor_char_end": 59,
+      "footnote_block_id": "b000443",
+      "footnote_text_preview": "بتحتانية مثناة."
+    },
+    {
+      "anchor_block_id": "b000439",
+      "anchor_char_start": 82,
+      "anchor_char_end": 85,
+      "footnote_block_id": "b000444",
+      "footnote_text_preview": "بضم القاف وسكون الراء بعدها طاء مهملة."
+    },
+    {
+      "anchor_block_id": "b000439",
+      "anchor_char_start": 95,
+      "anchor_char_end": 98,
+      "footnote_block_id": "b000445",
+      "footnote_text_preview": "براء وزاي خفيفة."
+    },
+    {
+      "anchor_block_id": "b000440",
+      "anchor_char_start": 0,
+      "anchor_char_end": 4,
+      "footnote_block_id": "b000446",
+      "footnote_text_preview": "أمير المؤمنين، استشهد في ذي الحجة سنة ثلاث وعشرين، وولي الخلافة عشر سنين ونصف. \""
+    },
+    {
+      "anchor_block_id": "b000440",
+      "anchor_char_start": 12,
+      "anchor_char_end": 16,
+      "footnote_block_id": "b000447",
+      "footnote_text_preview": "كان أسن من أخيه عمر وأسلم قبله، استشهد باليمامة سنة اثنتي عشرة / خت م د. \"طبقات "
+    },
+    {
+      "anchor_block_id": "b000440",
+      "anchor_char_start": 25,
+      "anchor_char_end": 29,
+      "footnote_block_id": "b000448",
+      "footnote_text_preview": "في \"الإصابة\" (٧/ ٧٤٢): ذكرها الدارقطني في كتاب \"الأُخوة\" وقال: تزوجها سفيان بن ع"
+    },
+    {
+      "anchor_block_id": "b000441",
+      "anchor_char_start": 0,
+      "anchor_char_end": 4,
+      "footnote_block_id": "b000449",
+      "footnote_text_preview": "لها ترجمة في \"أسد الغابة\" (٧/ ٢٢٠)، \"الإصابة\" (٨/ ٦٢)."
+    },
+    {
+      "anchor_block_id": "b000442",
+      "anchor_char_start": 143,
+      "anchor_char_end": 146,
+      "footnote_block_id": "b000450",
+      "footnote_text_preview": "كما في \"الطبقات الكبرى\" و \"طبقات خليفة\" وغيرهما من المصادر السابقة. ="
+    },
+    {
+      "anchor_block_id": "b000451",
+      "anchor_char_start": 10,
+      "anchor_char_end": 13,
+      "footnote_block_id": "b000455",
+      "footnote_text_preview": "قال ابن الأثير (٤/ ١٤٥): كان يقال لهاشم جد عمر: ذو الرمحين."
+    },
+    {
+      "anchor_block_id": "b000452",
+      "anchor_char_start": 67,
+      "anchor_char_end": 70,
+      "footnote_block_id": "b000456",
+      "footnote_text_preview": "قال ابن سعد في \"الطبقات\" (٣/ ٣٧٧): شهد بدرًا وأحدًا والخندق والمشاهد كلها مع رسو"
+    },
+    {
+      "anchor_block_id": "b000452",
+      "anchor_char_start": 86,
+      "anchor_char_end": 89,
+      "footnote_block_id": "b000457",
+      "footnote_text_preview": "جاء في \"الأصل\": وأحد؛ بالرفع، والصواب ما أثبت."
+    },
+    {
+      "anchor_block_id": "b000452",
+      "anchor_char_start": 213,
+      "anchor_char_end": 216,
+      "footnote_block_id": "b000458",
+      "footnote_text_preview": "في \"الطبقات\": كان زيد بن الخطاب يحمل راية المسلمين يوم اليمامة … وجعل يشتد بالرا"
+    },
+    {
+      "anchor_block_id": "b000453",
+      "anchor_char_start": 25,
+      "anchor_char_end": 28,
+      "footnote_block_id": "b000459",
+      "footnote_text_preview": "هو القاضي الإمام العلامة المحدث الثقة أبو عبد الله الحسين بن إسماعيل بن محمد الب"
+    },
+    {
+      "anchor_block_id": "b000460",
+      "anchor_char_start": 7,
+      "anchor_char_end": 10,
+      "footnote_block_id": "b000463",
+      "footnote_text_preview": "رواه البخاري تعليقًا كتاب بدء الخلق (٦/ ٣٤٧) (رقم: ٣٢٩٩)، ومسلم في كتاب السلام ("
+    },
+    {
+      "anchor_block_id": "b000461",
+      "anchor_char_start": 39,
+      "anchor_char_end": 42,
+      "footnote_block_id": "b000464",
+      "footnote_text_preview": "له ترجمة في \"الإصابة\" (١/ ٧٥) وقال: وهو ابن أخي سلمة بن الأسود زوج أم سلمة، ذكره"
+    },
+    {
+      "anchor_block_id": "b000461",
+      "anchor_char_start": 78,
+      "anchor_char_end": 81,
+      "footnote_block_id": "b000465",
+      "footnote_text_preview": "في \"أسد الغابة\": قال عبدان: لا تعرف له رواية."
+    },
+    {
+      "anchor_block_id": "b000462",
+      "anchor_char_start": 43,
+      "anchor_char_end": 46,
+      "footnote_block_id": "b000466",
+      "footnote_text_preview": "في \"الإصابة\" (٨/ ٦٢): حكى الدارقطني: أن اسمها أميمة، ثم قال الحافظ في آخر ترجمته"
+    },
+    {
+      "anchor_block_id": "b000462",
+      "anchor_char_start": 130,
+      "anchor_char_end": 133,
+      "footnote_block_id": "b000467",
+      "footnote_text_preview": "قال ابن سعد في \"الطبقات\" (٣/ ٣٨١): وكان لسعيد بن زيد من الولد ="
+    },
+    {
+      "anchor_block_id": "b000468",
+      "anchor_char_start": 29,
+      "anchor_char_end": 32,
+      "footnote_block_id": "b000471",
+      "footnote_text_preview": "روى قصة إسلام عمر أبو نعيم الأصبهاني في \"فضائل الصحابة\".\nوقال الحافظ في \"الإصابة"
+    },
+    {
+      "anchor_block_id": "b000468",
+      "anchor_char_start": 98,
+      "anchor_char_end": 101,
+      "footnote_block_id": "b000472",
+      "footnote_text_preview": "خبّاب -بموحدتين الأولى مُثقّلة- ابن الأَرَتّ التميمي أبو عبد الله من السابقين إل"
+    },
+    {
+      "anchor_block_id": "b000474",
+      "anchor_char_start": 0,
+      "anchor_char_end": 4,
+      "footnote_block_id": "b000478",
+      "footnote_text_preview": "ولد بعد البعثة بيسير وهو أحد المكثرين من الصحابة والعبادلة. \"الطبقات الكبرى\" (٢/"
+    },
+    {
+      "anchor_block_id": "b000474",
+      "anchor_char_start": 17,
+      "anchor_char_end": 21,
+      "footnote_block_id": "b000479",
+      "footnote_text_preview": "كنيته أبو عيسى، قال الحافظ في \"الإصابة\" (٤/ ٣٤٠): قال أبو عمر: كان لعمر ثلاثة كل"
+    },
+    {
+      "anchor_block_id": "b000475",
+      "anchor_char_start": 0,
+      "anchor_char_end": 4,
+      "footnote_block_id": "b000480",
+      "footnote_text_preview": "أم المؤمنين تزوجها النبي -صلى الله عليه وسلم- سنة ثلاث وماتت سنة خمس وأربعين. \"ط"
+    },
+    {
+      "anchor_block_id": "b000476",
+      "anchor_char_start": 11,
+      "anchor_char_end": 14,
+      "footnote_block_id": "b000481",
+      "footnote_text_preview": "أخت عثمان بن مضعون الجمحي."
+    },
+    {
+      "anchor_block_id": "b000477",
+      "anchor_char_start": 0,
+      "anchor_char_end": 4,
+      "footnote_block_id": "b000482",
+      "footnote_text_preview": "قال الحافظ في \"الإصابة\" (٨/ ٣٢٢): ذكرها الدارقطني في \"الأُخوة\" وقال: روى حديثها "
+    },
+    {
+      "anchor_block_id": "b000477",
+      "anchor_char_start": 351,
+      "anchor_char_end": 354,
+      "footnote_block_id": "b000483",
+      "footnote_text_preview": "رواه الطبراني في \"الكبير\" (٥/ ١٧٢) (رقم: ٤٢١) من طريق عثمان بهِ. ="
+    },
+    {
+      "anchor_block_id": "b000484",
+      "anchor_char_start": 0,
+      "anchor_char_end": 4,
+      "footnote_block_id": "b000491",
+      "footnote_text_preview": "تقدمت ترجمته (ص: ٢٨)."
+    },
+    {
+      "anchor_block_id": "b000485",
+      "anchor_char_start": 0,
+      "anchor_char_end": 4,
+      "footnote_block_id": "b000492",
+      "footnote_text_preview": "تقدمت ترجمتها (ص: ٢٨)."
+    },
+    {
+      "anchor_block_id": "b000485",
+      "anchor_char_start": 39,
+      "anchor_char_end": 42,
+      "footnote_block_id": "b000493",
+      "footnote_text_preview": "تقدمت ترجمتها، برقم (١٤)."
+    },
+    {
+      "anchor_block_id": "b000486",
+      "anchor_char_start": 0,
+      "anchor_char_end": 4,
+      "footnote_block_id": "b000494",
+      "footnote_text_preview": "لم أجد له ترجمة."
+    },
+    {
+      "anchor_block_id": "b000487",
+      "anchor_char_start": 0,
+      "anchor_char_end": 4,
+      "footnote_block_id": "b000495",
+      "footnote_text_preview": "ولد فى عهد النبي -صلى الله عليه وسلم-، فقد ثبت أنه غزا في خلافة أبيه وكان من شجع"
+    },
+    {
+      "anchor_block_id": "b000487",
+      "anchor_char_start": 38,
+      "anchor_char_end": 41,
+      "footnote_block_id": "b000496",
+      "footnote_text_preview": "في \"الأصل\": \"أمُّها\"."
+    },
+    {
+      "anchor_block_id": "b000487",
+      "anchor_char_start": 51,
+      "anchor_char_end": 54,
+      "footnote_block_id": "b000497",
+      "footnote_text_preview": "فى \"الإصابة\" (٢/ ٦٢٨): أمهما أم كلثوم بنت جَرول كانت تحت عمر ففرق بينهما الإسلام"
+    },
+    {
+      "anchor_block_id": "b000489",
+      "anchor_char_start": 0,
+      "anchor_char_end": 4,
+      "footnote_block_id": "b000498",
+      "footnote_text_preview": "عبد الله بن أبي الجهم، في \"الإصابة\" (٤/ ٤٤): قال ابن سعد: أسلم عام الفتح مع أبيه"
+    },
+    {
+      "anchor_block_id": "b000489",
+      "anchor_char_start": 26,
+      "anchor_char_end": 29,
+      "footnote_block_id": "b000499",
+      "footnote_text_preview": "جاء في \"الأصل\": من، ولعلَّ الصواب ما أثبت."
+    },
+    {
+      "anchor_block_id": "b000500",
+      "anchor_char_start": 0,
+      "anchor_char_end": 4,
+      "footnote_block_id": "b000505",
+      "footnote_text_preview": "صحابي نزل الكوفة. \"أسد الغابة\" (١/ ٤٣٠)، \"الإصابة\" (١/ ٦١٩)، \"التهذيب\" (٢/ ١٦٧)."
+    },
+    {
+      "anchor_block_id": "b000500",
+      "anchor_char_start": 14,
+      "anchor_char_end": 17,
+      "footnote_block_id": "b000506",
+      "footnote_text_preview": "ما بين القوسين كتب في الهامش وعليه علامة صح، وقد أشير إليه في الأصل، وقد تصحَّف "
+    },
+    {
+      "anchor_block_id": "b000501",
+      "anchor_char_start": 0,
+      "anchor_char_end": 4,
+      "footnote_block_id": "b000507",
+      "footnote_text_preview": "ولد في حياة النبي -صلى الله عليه وسلم- ومات سنة سبعين وقيل بعدها خ م د ت س. \"الط"
+    },
+    {
+      "anchor_block_id": "b000501",
+      "anchor_char_start": 95,
+      "anchor_char_end": 98,
+      "footnote_block_id": "b000508",
+      "footnote_text_preview": "رواه مسلم في \"صحيحه\" (٢١٣٩) عن ابن عُمر."
+    },
+    {
+      "anchor_block_id": "b000503",
+      "anchor_char_start": 0,
+      "anchor_char_end": 4,
+      "footnote_block_id": "b000509",
+      "footnote_text_preview": "أبو محمد، يقال: ولد في حياة النبي -صلى الله عليه وسلم-، وذكره ابن حبان في \"ثقات "
+    },
+    {
+      "anchor_block_id": "b000503",
+      "anchor_char_start": 62,
+      "anchor_char_end": 65,
+      "footnote_block_id": "b000510",
+      "footnote_text_preview": "لم أجد من قال: إنَّه يروي عن ثوبان، والذي يروي عن ثوبان هو عبد الرحمن بن يزيد اب"
+    },
+    {
+      "anchor_block_id": "b000504",
+      "anchor_char_start": 0,
+      "anchor_char_end": 4,
+      "footnote_block_id": "b000511",
+      "footnote_text_preview": "ذكره الحافظ في \"الإصابة\" (٥/ ٤٤) في القسم الثاني وقال: عُمِّر؛ عاش بعد ="
+    },
+    {
+      "anchor_block_id": "b000512",
+      "anchor_char_start": 26,
+      "anchor_char_end": 29,
+      "footnote_block_id": "b000517",
+      "footnote_text_preview": "كما في \"الطبقات الكبرى\" (٣/ ٢٦٦)."
+    },
+    {
+      "anchor_block_id": "b000513",
+      "anchor_char_start": 11,
+      "anchor_char_end": 14,
+      "footnote_block_id": "b000518",
+      "footnote_text_preview": "قال الحافظ في \"الإصابة\": وقد أخرج عبد الرزاق (٩/ ٢٣١) القصة مطولة عن معمر عن الز"
+    },
+    {
+      "anchor_block_id": "b000513",
+      "anchor_char_start": 96,
+      "anchor_char_end": 99,
+      "footnote_block_id": "b000519",
+      "footnote_text_preview": "ما بين القوسين كتب في الهامش وعليه علامة صح، وقد أشير إليه في \"الأصل\"."
+    },
+    {
+      "anchor_block_id": "b000513",
+      "anchor_char_start": 109,
+      "anchor_char_end": 112,
+      "footnote_block_id": "b000520",
+      "footnote_text_preview": "انظر ترجمة أبي سروعة في \"أسد الغابة\" (٤/ ٥٠، ٦/ ١٣٦)، \"الإصابة\" (٤/ ٥١٨، ٧/ ١٦٩)"
+    },
+    {
+      "anchor_block_id": "b000514",
+      "anchor_char_start": 0,
+      "anchor_char_end": 4,
+      "footnote_block_id": "b000521",
+      "footnote_text_preview": "ذكره ابن عبد البر في \"الاستيعاب\" (٢/ ٤٠٣) ضمن ترجمة عبد الرحمن الأكبر وقال: عبد "
+    },
+    {
+      "anchor_block_id": "b000515",
+      "anchor_char_start": 0,
+      "anchor_char_end": 4,
+      "footnote_block_id": "b000522",
+      "footnote_text_preview": "ذكرها الحافظ في \"الإصابة\" (٧/ ٦٨٤) وقال: قال الزبير بن بكار في كتاب \"النسب\": أمه"
+    },
+    {
+      "anchor_block_id": "b000523",
+      "anchor_char_start": 0,
+      "anchor_char_end": 4,
+      "footnote_block_id": "b000527",
+      "footnote_text_preview": "ذكره ابن سعد في \"الطبقات\" (٣/ ٢٦٦) ضمن أولاد عمر بين الخطاب."
+    },
+    {
+      "anchor_block_id": "b000524",
+      "anchor_char_start": 0,
+      "anchor_char_end": 4,
+      "footnote_block_id": "b000528",
+      "footnote_text_preview": "ذكرها ابن سعد (٥/ ٥٠) ضمن ترجمة عبد الرحمن بن زيد بن الخطاب."
+    },
+    {
+      "anchor_block_id": "b000525",
+      "anchor_char_start": 0,
+      "anchor_char_end": 4,
+      "footnote_block_id": "b000529",
+      "footnote_text_preview": "لم أجد ترجمته."
+    },
+    {
+      "anchor_block_id": "b000526",
+      "anchor_char_start": 29,
+      "anchor_char_end": 32,
+      "footnote_block_id": "b000530",
+      "footnote_text_preview": "ما بين القوسين سقطت من المخطوط."
+    },
+    {
+      "anchor_block_id": "b000526",
+      "anchor_char_start": 120,
+      "anchor_char_end": 123,
+      "footnote_block_id": "b000531",
+      "footnote_text_preview": "رواه البخاري في \"صحيحه\" كتاب المغازي باب غزوة الخندق (٧/ ٣٩٢)، ومسلم (٣/ ١٤٩٠) ("
+    },
+    {
+      "anchor_block_id": "b000526",
+      "anchor_char_start": 144,
+      "anchor_char_end": 147,
+      "footnote_block_id": "b000532",
+      "footnote_text_preview": "في \"الأصل\": \"خمسة\"."
+    },
+    {
+      "anchor_block_id": "b000533",
+      "anchor_char_start": 62,
+      "anchor_char_end": 65,
+      "footnote_block_id": "b000535",
+      "footnote_text_preview": "ذكر الذهبي في \"السير\" (٣/ ١١٢) عن طاووس قال: ما رأيت أورع من ابن عمر.\nوقال الذهب"
+    },
+    {
+      "anchor_block_id": "b000533",
+      "anchor_char_start": 80,
+      "anchor_char_end": 83,
+      "footnote_block_id": "b000536",
+      "footnote_text_preview": "ذكر الذهبي في \"السير\" (٣/ ١١٢) عن عائشة قالت: ما رأيت أحدًا ألزم للأمر الأول من "
+    },
+    {
+      "anchor_block_id": "b000533",
+      "anchor_char_start": 132,
+      "anchor_char_end": 135,
+      "footnote_block_id": "b000537",
+      "footnote_text_preview": "ما أحسنَ الاتِّباعَ!"
+    },
+    {
+      "anchor_block_id": "b000533",
+      "anchor_char_start": 151,
+      "anchor_char_end": 154,
+      "footnote_block_id": "b000538",
+      "footnote_text_preview": "في \"الإصابة\" (٤/ ١٨٨): قال ضمرة بن ربيعة في \"تاريخه\": مات سنة اثنتين أو ثلاث وسب"
+    },
+    {
+      "anchor_block_id": "b000534",
+      "anchor_char_start": 32,
+      "anchor_char_end": 35,
+      "footnote_block_id": "b000539",
+      "footnote_text_preview": "خُنيس -بالتصغير- كان من السابقين وهاجر إلى الحبشة ثم رجع فهاجر إلى المدينة وشهد "
+    },
+    {
+      "anchor_block_id": "b000534",
+      "anchor_char_start": 152,
+      "anchor_char_end": 155,
+      "footnote_block_id": "b000540",
+      "footnote_text_preview": "هي زوجة زيد بن حارثة، وفي \"التهذيب\" (١٢/ ٤٧٩): روت عن حفصة بنت عمر على خلافٍ في "
+    },
+    {
+      "anchor_block_id": "b000534",
+      "anchor_char_start": 196,
+      "anchor_char_end": 199,
+      "footnote_block_id": "b000541",
+      "footnote_text_preview": "جاء في المخطوط: أبيها، والصواب ما أثبت."
+    },
+    {
+      "anchor_block_id": "b000534",
+      "anchor_char_start": 214,
+      "anchor_char_end": 217,
+      "footnote_block_id": "b000542",
+      "footnote_text_preview": "في \"الإصابة\" (٧/ ٥٨٣): قال أبو عمر: أوصى عمر إلى حفصة وأوصت حفصة إلى أخيها عبد ا"
+    },
+    {
+      "anchor_block_id": "b000543",
+      "anchor_char_start": 114,
+      "anchor_char_end": 117,
+      "footnote_block_id": "b000548",
+      "footnote_text_preview": "جاء في المخطوط: إخوانها، والصواب ما أثبت."
+    },
+    {
+      "anchor_block_id": "b000543",
+      "anchor_char_start": 191,
+      "anchor_char_end": 194,
+      "footnote_block_id": "b000549",
+      "footnote_text_preview": "انظر \"سيرة ابن هشام\" (٢/ ٣٣١)."
+    },
+    {
+      "anchor_block_id": "b000547",
+      "anchor_char_start": 30,
+      "anchor_char_end": 33,
+      "footnote_block_id": "b000550",
+      "footnote_text_preview": "في \"الإصابة\" (٥/ ٣) قال ابنُ البَرْقِيِّ: ولد في حياة النبي -صلى الله عليه وسلم-"
+    },
+    {
+      "anchor_block_id": "b000547",
+      "anchor_char_start": 67,
+      "anchor_char_end": 70,
+      "footnote_block_id": "b000551",
+      "footnote_text_preview": "في \"الإصابة\" (٥/ ٤): وذكر الزبير بن بكار: أنَّ عمر زوجه في حياته وأنفق عليه شهرً"
+    },
+    {
+      "anchor_block_id": "b000547",
+      "anchor_char_start": 170,
+      "anchor_char_end": 173,
+      "footnote_block_id": "b000552",
+      "footnote_text_preview": "وفي \"الإصابة\": (٥/ ٤): قال الزبير: كان من أحسن الناس خلقًا، وكان عبد الله بن عمر"
+    },
+    {
+      "anchor_block_id": "b000553",
+      "anchor_char_start": 51,
+      "anchor_char_end": 54,
+      "footnote_block_id": "b000557",
+      "footnote_text_preview": "في \"ثقات ابن حبّان\" (٥/ ٢٣٤): مات سنة سبعين بالربذة قبل عبد الله بن عمر."
+    },
+    {
+      "anchor_block_id": "b000553",
+      "anchor_char_start": 64,
+      "anchor_char_end": 67,
+      "footnote_block_id": "b000558",
+      "footnote_text_preview": "في \"السير\" (٤/ ٩٧) مات سنة سبعين فرثاه ابن عمر أخوه حيث يقول:\nفليت المنايا كنّ خ"
+    },
+    {
+      "anchor_block_id": "b000554",
+      "anchor_char_start": 43,
+      "anchor_char_end": 46,
+      "footnote_block_id": "b000559",
+      "footnote_text_preview": "ما بين قوسين كتب في الهامش وعليه علامة صح."
+    },
+    {
+      "anchor_block_id": "b000556",
+      "anchor_char_start": 64,
+      "anchor_char_end": 67,
+      "footnote_block_id": "b000560",
+      "footnote_text_preview": "في \"الإصابة\" (٨/ ٢٩٤): أصيب زيد في حرب كانت بين بني عدي فخرج يصلح بينهم فشجه رجل"
+    },
+    {
+      "anchor_block_id": "b000556",
+      "anchor_char_start": 103,
+      "anchor_char_end": 106,
+      "footnote_block_id": "b000561",
+      "footnote_text_preview": "كذا \"الأصل\"!"
+    },
+    {
+      "anchor_block_id": "b000556",
+      "anchor_char_start": 279,
+      "anchor_char_end": 282,
+      "footnote_block_id": "b000562",
+      "footnote_text_preview": "كما في \"الطبقات الكبرى\" (٨/ ٤٦٤ - ٤٦٥)."
+    },
+    {
+      "anchor_block_id": "b000563",
+      "anchor_char_start": 28,
+      "anchor_char_end": 31,
+      "footnote_block_id": "b000567",
+      "footnote_text_preview": "ما بين قوسين كتب في الهامش، وكتب عليها علامة صح، وقد أشير إليها في الهامش."
+    },
+    {
+      "anchor_block_id": "b000563",
+      "anchor_char_start": 41,
+      "anchor_char_end": 44,
+      "footnote_block_id": "b000568",
+      "footnote_text_preview": "في \"الإصابة\" (١/ ١٧٨): قال الزبير: زوج عمر بن الخطاب إبراهيم هذا ابنته.\nوقال الح"
+    },
+    {
+      "anchor_block_id": "b000563",
+      "anchor_char_start": 107,
+      "anchor_char_end": 110,
+      "footnote_block_id": "b000569",
+      "footnote_text_preview": "ذكر ابن سعد في \"الطبقات\" (٥/ ١٧١) أنَّها ولدت لإبراهيم بنتًا."
+    },
+    {
+      "anchor_block_id": "b000564",
+      "anchor_char_start": 11,
+      "anchor_char_end": 14,
+      "footnote_block_id": "b000570",
+      "footnote_text_preview": "تقدمت برقم (٧٤)."
+    },
+    {
+      "anchor_block_id": "b000564",
+      "anchor_char_start": 53,
+      "anchor_char_end": 56,
+      "footnote_block_id": "b000571",
+      "footnote_text_preview": "كما في \"الطبقات الكبرى\" (٥/ ٥٠)."
+    },
+    {
+      "anchor_block_id": "b000565",
+      "anchor_char_start": 50,
+      "anchor_char_end": 53,
+      "footnote_block_id": "b000572",
+      "footnote_text_preview": "في \"الإصابة\" (٥/ ١٨): قال الزبير بن بكار في ذكر أولاد عمر بن الخطاب: وأما زينب ب"
+    },
+    {
+      "anchor_block_id": "b000565",
+      "anchor_char_start": 86,
+      "anchor_char_end": 89,
+      "footnote_block_id": "b000573",
+      "footnote_text_preview": "له ترجمة فى \"تهذيب التهذيب\" (٧/ ١٢٩)."
+    },
+    {
+      "anchor_block_id": "b000565",
+      "anchor_char_start": 172,
+      "anchor_char_end": 175,
+      "footnote_block_id": "b000574",
+      "footnote_text_preview": "جاء فوق عبد الله علامة تضبيب؛ وهو يشير إلى سقوط اسم عبد الله الثانى لأنَّ اسمه ع"
+    },
+    {
+      "anchor_block_id": "b000566",
+      "anchor_char_start": 39,
+      "anchor_char_end": 42,
+      "footnote_block_id": "b000575",
+      "footnote_text_preview": "انظر قصته معهم في \"الطبقات الكبرى\" (٥/ ١٥ - ١٧) وفي \"الإصابة\" (٥/ ٥٤)."
+    },
+    {
+      "anchor_block_id": "b000576",
+      "anchor_char_start": 33,
+      "anchor_char_end": 36,
+      "footnote_block_id": "b000582",
+      "footnote_text_preview": "في \"الإصابة\": هرب لما ولي على الخلافة على الشام فكان مع معاوية إلى أن قتل معه بص"
+    },
+    {
+      "anchor_block_id": "b000579",
+      "anchor_char_start": 22,
+      "anchor_char_end": 25,
+      "footnote_block_id": "b000583",
+      "footnote_text_preview": "هو أبو عبد الله حسين بن إسماعيل مصنف \"السنن\"، انظر ترجمته في \"السير\" (١٥/ ٢٥٩)."
+    },
+    {
+      "anchor_block_id": "b000580",
+      "anchor_char_start": 71,
+      "anchor_char_end": 74,
+      "footnote_block_id": "b000584",
+      "footnote_text_preview": "كتب في الهامش: بلغ مقابلة."
+    },
+    {
+      "anchor_block_id": "b000585",
+      "anchor_char_start": 19,
+      "anchor_char_end": 22,
+      "footnote_block_id": "b000591",
+      "footnote_text_preview": "لم أجد الجزء الثاني من هذا الكتاب القيم للأسف الشديد."
+    },
+    {
+      "anchor_block_id": "b000588",
+      "anchor_char_start": 5,
+      "anchor_char_end": 8,
+      "footnote_block_id": "b000592",
+      "footnote_text_preview": "هذا من كلام ناسخ \"الأصل\" الذي بين أيدينا."
+    },
+    {
+      "anchor_block_id": "b000589",
+      "anchor_char_start": 107,
+      "anchor_char_end": 110,
+      "footnote_block_id": "b000593",
+      "footnote_text_preview": "كذا قرأتها!"
+    },
+    {
+      "anchor_block_id": "b000589",
+      "anchor_char_start": 224,
+      "anchor_char_end": 227,
+      "footnote_block_id": "b000594",
+      "footnote_text_preview": "كذا في \"الأصل\" واضحةً، وفي \"التكملة بوفيات النَّقلة\" (رقم: ١٢٣٢) للمنذري: ابن عا"
+    }
+  ],
+  "multi_page_footnotes": [
+    {
+      "primary_block": "b000267",
+      "continuation_block": "b000278",
+      "full_text": "(٨/ ٤٨)، \"الإصابة\" (٨/ ٢٤٥). زوج النبي -صلى الله عليه وسلم- وبعض أهله.",
+      "page_start": 40,
+      "page_end": 41
+    },
+    {
+      "primary_block": "b000385",
+      "continuation_block": "b000395",
+      "full_text": "سنة بطاعون عمواس، ويقولون: قتل بأجنادين سنة ثلاث عشرة. والحاكم (٣/ ٥٣٣)، والطبراني (١٠/ ٢٨٩) كلهم من طريق شعبة عن أبي إسحاق عن سعيد ابن جبير عن ابن عباس قال: توفي رسول الله وأنا ابن خمس عشرة سنة وقد خُتنت، ورجاله كلهم ثقات، قال الحافظ في \"الفتح\" (١١/ ٧٦): المحفوظ الصحيح: أَنَّه ولد بالشِّعْب وذلك قبل الهجرة بثلاث سنين فيكون عند الوفاة النبوية ثلاث عشرة سنة وبذلك قطع أهل السير، وصحّحه ابن عبد البر.",
+      "page_start": 52,
+      "page_end": 53
+    }
+  ]
+}

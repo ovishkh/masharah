@@ -1,0 +1,109 @@
+{
+  "tier": 3,
+  "model_used": "qwen/qwen3.8-27b",
+  "extraction": {
+    "metadata": {
+      "title": {
+        "value": "الأُخوة والأَخوات",
+        "source_quote": "الأُخوة والأَخوات",
+        "source_block_id": "b000001"
+      },
+      "author": {
+        "value": "أبي الحسن علي بن عمر بن أحمد الدارقطني",
+        "source_quote": "أبي الحسن علي بن عمر بن أحمد الدارقطني",
+        "source_block_id": "b000004"
+      },
+      "author_death_year_hijri": {
+        "value": "٣٨٥",
+        "source_quote": "المتوفى سنة (٣٨٥) هجريّة",
+        "source_block_id": "b000005"
+      },
+      "author_kunya": {
+        "value": "أبو الحسن",
+        "source_quote": "أبي الحسن علي بن عمر بن أحمد الدارقطني",
+        "source_block_id": "b000004"
+      },
+      "editor": {
+        "value": "الدكتور باسم فيصل أحمد الجوابرة",
+        "source_quote": "الدكتور باسم فيصل أحمد الجوابرة",
+        "source_block_id": "b000008"
+      },
+      "publisher": {
+        "value": "دار الراية للنشر والتوزيع",
+        "source_quote": "دار الراية للنشر والتوزيع",
+        "source_block_id": "b000011"
+      },
+      "source_manuscript": {
+        "value": null,
+        "source_quote": null,
+        "source_block_id": null
+      },
+      "book_genre": "biography",
+      "confidence": 0.95,
+      "notes": "The book is a biographical work (تراجم) about the brothers and sisters of the Companions of the Prophet. The editor's affiliation mentions 'بالرياض' (Riyadh), but this is the university's location, not explicitly stated as the publication city, so publication_city is set to null to be conservative."
+    },
+    "metadata_verification": {
+      "all_passed": true,
+      "failed_count": 0,
+      "failed": []
+    },
+    "biography_entries": [
+      {
+        "block_id": "b000105",
+        "name": "فاطمة",
+        "source_quote": "١ - فاطمة.",
+        "relation_type": "sibling_of_prophet",
+        "summary": "فاطمة الزهراء، تزوجها عليّ في السنة الثانية من الهجرة، وماتت بعد النبي بستة أشهر.",
+        "confidence": 0.95
+      },
+      {
+        "block_id": "b000106",
+        "name": "زينب",
+        "source_quote": "٢ - وزينب.",
+        "relation_type": "sibling_of_prophet",
+        "summary": "أكبر أخواتها من المهاجرات، وكانت أول بنات رسول الله تزوجًا، ماتت في عهد النبي.",
+        "confidence": 0.95
+      },
+      {
+        "block_id": "b000107",
+        "name": "رقية",
+        "source_quote": "٣ - ورُقَيّة.",
+        "relation_type": "sibling_of_prophet",
+        "summary": "زوجة عثمان بن عفان، وهاجرت معه إلى الحبشة الهجرتين، توفيت ورسول الله ببدر.",
+        "confidence": 0.95
+      },
+      {
+        "block_id": "b000108",
+        "name": "أم كلثوم",
+        "source_quote": "٤ - وأم كلثوم.",
+        "relation_type": "sibling_of_prophet",
+        "summary": "تزوجها عثمان لما توفيت أختها رقية، ولم تلد له، وتوفيت في شعبان سنة تسع.",
+        "confidence": 0.95
+      },
+      {
+        "block_id": "b000114",
+        "name": "القاسم",
+        "source_quote": "٥ - القاسم؛ وبه كان يُكنَى، وهو أكبر ولده.",
+        "relation_type": "narrator",
+        "summary": "ابن النبي الأكبر، وكان يُكنى به.",
+        "confidence": 0.95
+      },
+      {
+        "block_id": "b000115",
+        "name": "عبد اللَّه",
+        "source_quote": "٦ - وعبد اللَّه؛ وهو الطيِّب، ويقال له: الطاهر (١).",
+        "relation_type": "narrator",
+        "summary": "ابن النبي، ويُعرف بالطيب والطاهر.",
+        "confidence": 0.95
+      }
+    ]
+  },
+  "pipeline_guarantees": {
+    "source_text_grounded": true,
+    "citation_required_per_field": true,
+    "programmatic_citation_verification": true,
+    "temperature": 0,
+    "schema_enforced": "Pydantic + Instructor",
+    "hallucination_risk": "Near-Zero (grounded + verified)"
+  }
+}
