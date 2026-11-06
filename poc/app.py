@@ -136,7 +136,7 @@ def run_tier3(tier1_result):
 
 
 def _tier3_dry_run(tier1_result):
-    """Show what Tier 3 would extract, using just Tier 1 data (demo without API key)."""
+    """Show what Tier 3 would extract, using just Tier 1 data (dry run without API key)."""
     print('  [DRY RUN — no API key needed]')
     print()
 
