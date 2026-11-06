@@ -89,6 +89,21 @@ python3 demo.py
 
 *Note: Even without an API key, Tier 1 and Tier 2 run deterministically at zero cost.*
 
+### 4. Running Automated Tests
+
+Run the full pytest suite:
+
+```bash
+pytest tests/ -v
+```
+
+This verifies:
+- Deterministic page/block parsing and SHA-256 validation (Tier 1)
+- 300 footnote-to-text link resolutions (Tier 1)
+- Table of Contents hierarchy extraction (Tier 1)
+- Arabic linguistic normalization & Hadith transmission verb detection (Tier 2)
+- Citation-grounded anti-hallucination verification (Tier 3)
+
 ---
 
 ## 📁 Repository Structure
