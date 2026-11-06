@@ -31,4 +31,4 @@ jobs:
 
     - name: Run End-to-End Pipeline Dry Run (No API key required)
       run: |
-        python poc/demo.py
+        python poc/app.py

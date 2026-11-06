@@ -82,7 +82,7 @@ To run the complete 4-tier pipeline on the sample book (`demo_book_daraqutni.jso
 
 ```bash
 cd poc
-python3 demo.py
+python3 app.py
 ```
 
 *Note: Even without an API key, Tier 1 and Tier 2 run deterministically at zero cost.*
@@ -112,13 +112,16 @@ masharah/
 ├── .env.example               # Environment variables template
 ├── input/
 │   ├── demo_book_daraqutni.json    # Sample digitized book (Shamela format)
-│   └── demo_book_daraqutni_v1.pdf  # Sample source manuscript PDF
+│   ├── demo_book_daraqutni_v1.pdf  # Sample source manuscript PDF
+│   ├── demo_book_tafseer.json      # Sample Tafseer book
+│   └── demo_book_tafseer.pdf       # Sample Tafseer PDF
 ├── output/
 │   ├── tier1_output.json      # Deterministic block index & 300 footnote links
 │   ├── tier3_extraction.json  # Grounded LLM extractions with verified citations
-│   └── enriched_book.json     # Final stand-off enrichment layer
+│   ├── enriched_book.json     # Final stand-off enrichment layer (Biographies)
+│   └── enriched_tafseer.json  # Final stand-off enrichment layer (Tafseer)
 ├── poc/
-│   ├── demo.py                # Main end-to-end execution script
+│   ├── app.py                 # Main end-to-end pipeline orchestrator
 │   ├── tier1_deterministic.py # Tier 1: Zero-cost structural indexing & footnotes
 │   └── tier3_llm_extraction.py# Tier 3: Grounded Qwen extraction via Groq + Instructor
 └── docs/
